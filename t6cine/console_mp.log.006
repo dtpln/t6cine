@@ -1,0 +1,2833 @@
+Build r4542
+logfile opened on Wed Mar  5 17:36:10 2025
+
+Searching for files required to download mod: "mods/t6cine"
+found 1 files required for mod download!
+Current language: english
+Current search path:
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/mods/t6cine
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/raw
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6//
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/players
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/mods/t6cine
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/usermaps
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main_shared
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/players
+execing plutonium_mp.cfg
+con_gameMsgWindow0Filter will be changed upon restarting.
+con_gameMsgWindow1Filter will be changed upon restarting.
+con_gameMsgWindow2Filter will be changed upon restarting.
+con_gameMsgWindow3Filter will be changed upon restarting.
+g_redCrosshairs will be changed upon restarting.
+loc_forceEnglish will be changed upon restarting.
+loc_language will be changed upon restarting.
+r_aaSamples will be changed upon restarting.
+r_aspectRatio will be changed upon restarting.
+r_customMode will be changed upon restarting.
+r_flameFX_distortionScaleFactor is cheat protected
+r_flameFX_FPS is cheat protected
+r_flameFX_magnitude is cheat protected
+r_fullscreen will be changed upon restarting.
+r_ignorehwgamma will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+completed execing plutonium_mp.cfg
+execing default_mp_controls_english.cfg
+completed execing default_mp_controls_english.cfg
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+fs_game is write protected
+execing ragdoll.cfg
+completed execing ragdoll.cfg
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Loading fastfile patch_mp
+Loading fastfile en_patch_mp
+Loading fastfile code_post_gfx_mp
+Loading fastfile en_code_post_gfx_mp
+Built adjacency info for IPaks 8ms
+execing default_720p.cfg
+completed execing default_720p.cfg
+execing default_mp_gamesettings.cfg
+execing mp/gamesettings_default.cfg
+completed execing mp/gamesettings_default.cfg
+execing mp/gamesettings_tdm.cfg
+completed execing mp/gamesettings_tdm.cfg
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+revive_time_taken is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_mp_gamesettings.cfg
+bound socket to localhost:4976
+fs_game is write protected
+execing mp/reset_classes_offline.cfg
+completed execing mp/reset_classes_offline.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing mp/default_emblems.cfg
+completed execing mp/default_emblems.cfg
+--- Common Initialization Complete ---
+Unknown command "t6mp"
+Unknown command "name"
+fs_game is write protected
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Loaded menu file: ui/t6/dvarleftrightselector.lua
+Loaded menu file: ui_mp/t6/hud/team_marinesopfor.lua
+Loaded menu file: ui_mp/t6/hud/class.lua
+Loaded menu file: ui/t6/menus/optionscontrols.lua
+Loaded menu file: ui/t6/menus/optionssettings.lua
+Loaded menu file: ui/t6/menus/safeareamenu.lua
+Loaded menu file: ui_mp/t6/hud/scoreboard.lua
+Loaded menu file: ui_mp/t6/hud/spectateplayercard.lua
+Loaded menu file: ui_mp/t6/hud/loading.lua
+Loading fastfile patch_ui_mp
+Loading fastfile en_ui_mp
+Loading fastfile ui_mp
+Built adjacency info for IPaks 12ms
+execing mp/reset_public_class_sets.cfg
+completed execing mp/reset_public_class_sets.cfg
+execing mp/reset_other_class_sets.cfg
+completed execing mp/reset_other_class_sets.cfg
+Loaded menu file: ui/t6/mainlobby.lua
+Loaded menu file: ui/t6/menus/partyprivacypopup.lua
+Loaded menu file: ui/t6/mods.lua
+Loaded menu file: ui_mp/t6/menus/editgameoptionspopup.lua
+Loaded menu file: ui_mp/t6/menus/privategamelobby_project.lua
+Loaded menu file: ui_mp/t6/menus/theaterlobby.lua
+Loaded menu file: ui/t6/partylobby.lua
+Bound DW addr to 10.5.0.2:3074
+Bound DW port to 3074
+Loading fastfile ffotd_tu17_mp_147
+Built adjacency info for IPaks 11ms
+execing mp/ffotd_settings.cfg
+Unknown command "maxNumAvatarOffers"
+execing dvar_defaults.cfg
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+completed execing dvar_defaults.cfg
+execing blackbox.cfg
+Unknown command "bbdisable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+completed execing blackbox.cfg
+completed execing mp/ffotd_settings.cfg
+Loading fastfile common_mp
+Loading fastfile common_patch_mp
+Loading fastfile en_common_mp
+'1800' is not a valid value for dvar 'YouTube_timeToRecoverFromLowStreamViewers'
+  Domain is any integer from 0 to 1000
+Built adjacency info for IPaks 13ms
+Loading fastfile dlc0_load_mp
+Loading fastfile dlc1_load_mp
+Loading fastfile dlc2_load_mp
+Loading fastfile dlc3_load_mp
+Loading fastfile dlc4_load_mp
+Loading fastfile dlc0dd_load_mp
+Loading fastfile seasonpass_load_mp
+Loading fastfile en_dlc0_load_mp
+Loading fastfile en_dlc1_load_mp
+Loading fastfile en_dlc2_load_mp
+Loading fastfile en_dlc3_load_mp
+Loading fastfile en_dlc4_load_mp
+Loading fastfile en_dlc0dd_load_mp
+Loading fastfile en_seasonpass_load_mp
+Built adjacency info for IPaks 25ms
+Loading fastfile mod
+Loading fastfile mod_load
+Loading fastfile mod_patch
+Built adjacency info for IPaks 24ms
+execing default_mp_gamesettings.cfg
+execing mp/gamesettings_default.cfg
+completed execing mp/gamesettings_default.cfg
+execing mp/gamesettings_tdm.cfg
+completed execing mp/gamesettings_tdm.cfg
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+ui_hud_hardcore is cheat protected
+'24' is not a valid value for dvar 'sv_maxclients'
+  Domain is any integer from 1 to 18
+revive_time_taken is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_mp_gamesettings.cfg
+Loaded menu file: ui/t6/dvarleftrightselector.lua
+Loaded menu file: ui/t6/mainlobby.lua
+Loaded menu file: ui/t6/menus/partyprivacypopup.lua
+Loaded menu file: ui/t6/mods.lua
+Loaded menu file: ui/t6/menus/optionscontrols.lua
+Loaded menu file: ui/t6/menus/optionssettings.lua
+Loaded menu file: ui/t6/menus/safeareamenu.lua
+Loaded menu file: ui_mp/t6/menus/editgameoptionspopup.lua
+Loaded menu file: ui_mp/t6/menus/privategamelobby_project.lua
+Loaded menu file: ui_mp/t6/hud/scoreboard.lua
+Loaded menu file: ui_mp/t6/menus/theaterlobby.lua
+Loaded menu file: ui/t6/partylobby.lua
+execing mp/reset_public_class_sets.cfg
+completed execing mp/reset_public_class_sets.cfg
+execing mp/reset_other_class_sets.cfg
+completed execing mp/reset_other_class_sets.cfg
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_mode will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+Unknown command "session_rejoinsession"
+execing default_xboxlive.cfg
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ui_hud_hardcore is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_xboxlive.cfg
+execing mp/gamesettings_default.cfg
+completed execing mp/gamesettings_default.cfg
+execing mp/gamesettings_tdm.cfg
+completed execing mp/gamesettings_tdm.cfg
+]devmap mp_nuketown_2020
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_mp
+Unloading fastfile en_ui_mp
+Unloading fastfile patch_ui_mp
+Loaded menu file: ui_mp/t6/hud/team_marinesopfor.lua
+Loaded menu file: ui_mp/t6/hud/class.lua
+Loaded menu file: ui_mp/t6/hud/spectateplayercard.lua
+Loaded menu file: ui_mp/t6/hud/loading.lua
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/players
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main_shared
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/main
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/usermaps
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/mods/t6cine
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/players
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6//
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/raw
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/mods/t6cine
+Searching for files required to download mod: "mods/t6cine"
+found 1 files required for mod download!
+Current language: english
+Current search path:
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/mods/t6cine
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/raw
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6//
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/players
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/mods/t6cine
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/usermaps
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main_shared
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/players
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Loading fastfile mp_nuketown_2020
+Loading fastfile faction_seals_mp
+Loading fastfile faction_pmc_mp
+Loading fastfile en_mp_nuketown_2020
+Loading fastfile en_faction_seals_mp
+Loading fastfile en_faction_pmc_mp
+Built adjacency info for IPaks 25ms
+Initializing game at 03/05/25 17:36:29 -0500
+Current uptime: 00:00:28
+Level time: 0
+Restart: 0
+------- Game Initialization -------
+gamename: PT6MP
+gamedate: Jan 27 2025
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "maps/mp/gametypes/_globallogic_player.gsc" loaded successfully
+Script "maps/mp/gametypes/_rank.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic.gsc" loaded successfully
+Script "maps/mp/gametypes/_damagefeedback.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic_ui.gsc" loaded successfully
+Script "scripts/actors.gsc" loaded successfully
+Script "scripts/utils.gsc" loaded successfully
+Script "scripts/defaults.gsc" loaded successfully
+Script "scripts/misc.gsc" loaded successfully
+Script "scripts/bots.gsc" loaded successfully
+Script "scripts/player.gsc" loaded successfully
+Script "scripts/commands.gsc" loaded successfully
+Script "scripts/hooks.gsc" loaded successfully
+Script "scripts/maths.gsc" loaded successfully
+Script "scripts/mp/ranked.gsc" loaded successfully
+Script "scripts/precache.gsc" loaded successfully
+Script "scripts/start.gsc" loaded successfully
+Applying pre-patched weapon values for 'dsr50_mp'
+codescripts/delete.gsc (patch_mp): 0x0B4E32EE
+codescripts/struct.gsc (patch_mp): 0x5A0C849E
+common_scripts/utility.gsc (patch_mp): 0x1447FBB5
+maps/mp/_script_gen.gsc (patch_mp): 0xE3828D0B
+maps/mp/_fx.gsc (patch_mp): 0xCF0DC190
+maps/mp/_createfxmenu.gsc (patch_mp): 0x875AF4D1
+maps/mp/_createfxundo.gsc (patch_mp): 0xED3BDE6C
+maps/mp/_createfx.gsc (patch_mp): 0x2B78DD0D
+maps/mp/gametypes/_hud_util.gsc (patch_mp): 0x73334004
+maps/mp/_utility.gsc (patch_mp): 0xD2E0DC40
+maps/mp/_challenges.gsc (patch_mp): 0x29FE7852
+maps/mp/gametypes/_hud.gsc (patch_mp): 0x705F9540
+maps/mp/gametypes/_hostmigration.gsc (patch_mp): 0xEF9E4FBE
+maps/mp/_music.gsc (patch_mp): 0xA3DAE7A9
+maps/mp/gametypes/_damagefeedback.gsc (raw (source)): 0xC1A1A8A9 (0xE8D7F57E)
+maps/mp/_burnplayer.gsc (patch_mp): 0xF91B9826
+maps/mp/_busing.gsc (patch_mp): 0x6C026E66
+maps/mp/gametypes/_tweakables.gsc (patch_mp): 0x0BE5DEEF
+maps/mp/gametypes/_spectating.gsc (patch_mp): 0x2BE6F5F9
+maps/mp/gametypes/_hud_message.gsc (patch_mp): 0xE64FB496
+maps/mp/_medals.gsc (patch_mp): 0xCC5130D1
+maps/mp/_popups.gsc (patch_mp): 0x305CDC8A
+maps/mp/gametypes/_globallogic_vehicle.gsc (patch_mp): 0xCA5BF5DF
+maps/mp/gametypes/_globallogic_actor.gsc (patch_mp): 0x3F489077
+maps/mp/_audio.gsc (patch_mp): 0x250F2D68
+maps/mp/gametypes/_callbacksetup.gsc (patch_mp): 0xC0F31431
+maps/mp/gametypes/_spawnlogic.gsc (patch_mp): 0x47FA3804
+maps/mp/killstreaks/_airsupport.gsc (patch_mp): 0x78150512
+maps/mp/gametypes/_weapon_utils.gsc (patch_mp): 0x64D23923
+maps/mp/_heatseekingmissile.gsc (patch_mp): 0xB717E38B
+maps/mp/_hacker_tool.gsc (patch_mp): 0x17F13503
+maps/mp/_tacticalinsertion.gsc (patch_mp): 0xEFBBC8EF
+maps/mp/gametypes/_spawning.gsc (patch_mp): 0x501161E1
+maps/mp/gametypes/_battlechatter_mp.gsc (patch_mp): 0xC7A91769
+maps/mp/killstreaks/_emp.gsc (patch_mp): 0xA3E9E472
+maps/mp/killstreaks/_killstreakrules.gsc (patch_mp): 0xFBAFC7EB
+maps/mp/killstreaks/_dogs.gsc (patch_mp): 0x4C558883
+maps/mp/animscripts/utility.gsc (common_mp): 0x7556206F
+maps/mp/animscripts/shared.gsc (common_mp): 0xDFCF35AA
+maps/mp/animscripts/dog_flashed.gsc (common_mp): 0x7D998FE8
+maps/mp/_scrambler.gsc (patch_mp): 0x1BEDE721
+maps/mp/_entityheadicons.gsc (patch_mp): 0xD4D284CD
+maps/mp/_mgturret.gsc (patch_mp): 0x17332F4A
+maps/mp/killstreaks/_turret_killstreak.gsc (patch_mp): 0x390E2474
+maps/mp/killstreaks/_remote_weapons.gsc (patch_mp): 0x34ED31F0
+maps/mp/killstreaks/_ai_tank.gsc (patch_mp): 0x82B55CEF
+maps/mp/gametypes/_shellshock.gsc (patch_mp): 0x80913E1F
+maps/mp/_treadfx.gsc (patch_mp): 0x64255A33
+maps/mp/killstreaks/_qrdrone.gsc (patch_mp): 0xE3057C1C
+maps/mp/_flashgrenades.gsc (patch_mp): 0x44B3FD92
+maps/mp/killstreaks/_rcbomb.gsc (patch_mp): 0x1296BF06
+maps/mp/_vehicles.gsc (patch_mp): 0x70A42205
+maps/mp/_ballistic_knife.gsc (patch_mp): 0x89A2A500
+maps/mp/_sensor_grenade.gsc (patch_mp): 0xCBC6419C
+maps/mp/_trophy_system.gsc (patch_mp): 0x5531EACB
+maps/mp/_bouncingbetty.gsc (patch_mp): 0x824AC277
+maps/mp/_proximity_grenade.gsc (patch_mp): 0x2699AE37
+maps/mp/_satchel_charge.gsc (patch_mp): 0x123B0E8F
+maps/mp/gametypes/_weaponobjects.gsc (patch_mp): 0xE9E018C4
+maps/mp/killstreaks/_spyplane.gsc (patch_mp): 0x98394838
+maps/mp/killstreaks/_radar.gsc (patch_mp): 0x6CDD31BE
+maps/mp/gametypes/_objpoints.gsc (patch_mp): 0xECDE0ABD
+maps/mp/gametypes/_gameobjects.gsc (patch_mp): 0x6C28CA46
+maps/mp/_tabun.gsc (patch_mp): 0x86F4ACB0
+maps/mp/_bb.gsc (patch_mp): 0x32A9EFDD
+maps/mp/_riotshield.gsc (patch_mp): 0xFB87E763
+maps/mp/_sticky_grenade.gsc (patch_mp): 0x8F6B52CA
+maps/mp/_explosive_bolt.gsc (patch_mp): 0x8F6B52CA
+maps/mp/_acousticsensor.gsc (patch_mp): 0x23A01F80
+maps/mp/_smokegrenade.gsc (patch_mp): 0x6276E395
+maps/mp/_empgrenade.gsc (patch_mp): 0xF1FDBBAF
+maps/mp/gametypes/_weapons.gsc (patch_mp): 0xACE4208F
+maps/mp/killstreaks/_killstreak_weapons.gsc (patch_mp): 0x1555C3AD
+maps/mp/gametypes/_class.gsc (patch_mp): 0x30A5CF7F
+maps/mp/gametypes/_persistence.gsc (patch_mp): 0x683C2BDE
+maps/mp/teams/_teams.gsc (patch_mp): 0xA48A8E5F
+maps/mp/gametypes/_pregame.gsc (patch_mp): 0xB4CA4A12
+maps/mp/gametypes/_globallogic_ui.gsc (raw (source)): 0x15AF3058 (0x24EBD82F)
+maps/mp/_gameadvertisement.gsc (patch_mp): 0x1180D1E5
+maps/mp/_gamerep.gsc (patch_mp): 0xE431F128
+maps/mp/gametypes/_globallogic_defaults.gsc (patch_mp): 0x66CC08ED
+maps/mp/gametypes/_globallogic_spawn.gsc (patch_mp): 0x5D6FDDCD
+maps/mp/gametypes/_wager.gsc (patch_mp): 0xF5DFB665
+maps/mp/_demo.gsc (patch_mp): 0xD9D0103E
+maps/mp/gametypes/_serversettings.gsc (patch_mp): 0xDF01F9EB
+maps/mp/gametypes/_clientids.gsc (patch_mp): 0x15BD0780
+maps/mp/gametypes/_scoreboard.gsc (patch_mp): 0x6B644917
+maps/mp/gametypes/_killcam.gsc (patch_mp): 0xA3B1AE00
+maps/mp/gametypes/_deathicons.gsc (patch_mp): 0xE1D4B527
+maps/mp/_decoy.gsc (patch_mp): 0xEF11AE1B
+maps/mp/gametypes/_menus.gsc (patch_mp): 0xD563A2F5
+maps/mp/gametypes/_healthoverlay.gsc (patch_mp): 0x1F960948
+maps/mp/gametypes/_friendicons.gsc (patch_mp): 0x3E9A2734
+maps/mp/_multi_extracam.gsc (patch_mp): 0xF0ED5F5D
+maps/mp/gametypes/_globallogic.gsc (raw (source)): 0x38AD17A8 (0x5C536C91)
+maps/mp/gametypes/_rank.gsc (raw (source)): 0x405CE160 (0x27F0CFC7)
+maps/mp/_scoreevents.gsc (patch_mp): 0x37F94BE3
+maps/mp/killstreaks/_helicopter.gsc (patch_mp): 0x5338C0B4
+maps/mp/killstreaks/_supplydrop.gsc (patch_mp): 0x925B6231
+maps/mp/killstreaks/_helicopter_gunner.gsc (patch_mp): 0x237B765E
+maps/mp/gametypes/_dev_class.gsc (patch_mp): 0xE0C3092C
+maps/mp/gametypes/_dev.gsc (patch_mp): 0x932C680F
+maps/mp/bots/_bot_conf.gsc (patch_mp): 0x57D8D9A0
+maps/mp/bots/_bot_combat.gsc (patch_mp): 0x165929A8
+maps/mp/gametypes/koth.gsc (patch_mp): 0xF626B424
+maps/mp/bots/_bot_hq.gsc (patch_mp): 0xEADD1E41
+maps/mp/bots/_bot_koth.gsc (patch_mp): 0x2A8DB626
+maps/mp/gametypes/dom.gsc (patch_mp): 0x9FACDB1B
+maps/mp/bots/_bot_dom.gsc (patch_mp): 0xBE640CC2
+maps/mp/gametypes/dem.gsc (patch_mp): 0x2240C45E
+maps/mp/bots/_bot_dem.gsc (patch_mp): 0x1E22B2F5
+maps/mp/gametypes/ctf.gsc (patch_mp): 0x65A971EB
+maps/mp/bots/_bot_ctf.gsc (patch_mp): 0x55198A88
+maps/mp/bots/_bot_loadout.gsc (patch_mp): 0xB60F1EAD
+maps/mp/bots/_bot.gsc (patch_mp): 0x48843E4F
+maps/mp/gametypes/_globallogic_score.gsc (patch_mp): 0x631EA438
+maps/mp/gametypes/_globallogic_utils.gsc (patch_mp): 0x3EA2F19A
+maps/mp/gametypes/_globallogic_audio.gsc (patch_mp): 0x4A54D908
+maps/mp/killstreaks/_straferun.gsc (patch_mp): 0x451581A1
+maps/mp/killstreaks/_remotemortar.gsc (patch_mp): 0x9E2005C4
+maps/mp/killstreaks/_remotemissile.gsc (patch_mp): 0xF41CA6BA
+maps/mp/killstreaks/_planemortar.gsc (patch_mp): 0x477F8FDA
+maps/mp/killstreaks/_missile_swarm.gsc (patch_mp): 0x5FD63953
+maps/mp/killstreaks/_missile_drone.gsc (patch_mp): 0x667C0FD4
+maps/mp/killstreaks/_helicopter_guard.gsc (patch_mp): 0x2B8146BA
+maps/mp/killstreaks/_killstreaks.gsc (patch_mp): 0x89C149F2
+maps/mp/gametypes/_globallogic_player.gsc (raw (source)): 0x894BEDAF (0x040663EB)
+maps/mp/_destructible.gsc (patch_mp): 0xB5563B98
+maps/mp/animscripts/dog_combat.gsc (patch_mp): 0x5E3E66E0
+maps/mp/animscripts/dog_death.gsc (common_mp): 0x36CB559E
+maps/mp/animscripts/dog_stop.gsc (common_mp): 0x21CB6FCB
+maps/mp/animscripts/dog_move.gsc (common_mp): 0xD81FEDF6
+maps/mp/animscripts/dog_init.gsc (patch_mp): 0xF51338C8
+maps/mp/animscripts/dog_pain.gsc (common_mp): 0x3180E2A5
+maps/mp/animscripts/dog_jump.gsc (common_mp): 0x698B88EA
+maps/mp/animscripts/dog_turn.gsc (common_mp): 0xB29312FB
+common_scripts/default (): 0xA3CC035D
+maps/mp/gametypes/tdm.gsc (patch_mp): 0x9D14529A
+scripts/defaults.gsc (raw (source)): 0xDB75A59E (0x370D4FF3)
+scripts/utils.gsc (raw (source)): 0xB6D9B8FC (0x7534C289)
+scripts/misc.gsc (raw (source)): 0xF3AF40CD (0x38455E31)
+scripts/actors.gsc (raw (source)): 0x563ECC6C (0x1CB15320)
+scripts/player.gsc (raw (source)): 0x294DBCE5 (0x8B8EF30D)
+scripts/bots.gsc (raw (source)): 0x75D0F109 (0xE1968A30)
+scripts/commands.gsc (raw (source)): 0x11557D8A (0x4C8CEC06)
+scripts/hooks.gsc (raw (source)): 0x45CB211A (0xF39421EC)
+scripts/maths.gsc (raw (source)): 0xAB16801C (0x1C7CB983)
+scripts/mp/ranked.gsc (raw (source)): 0x2AF92F6C (0x08D9BA2D)
+scripts/precache.gsc (raw (source)): 0xFED3B279 (0xD639591D)
+scripts/start.gsc (raw (source)): 0xA01B69FF (0xF7A998AF)
+maps/mp/_compass.gsc (patch_mp): 0x708747E9
+maps/mp/_ambientpackage.gsc (patch_mp): 0x89111CB1
+maps/mp/mp_nuketown_2020_amb.gsc (mp_nuketown_2020): 0x8A4B262C
+maps/mp/animscripts/traverse/shared.gsc (common_mp): 0x7913AF97
+maps/mp/_development_dvars.gsc (patch_mp): 0xCFF6CD00
+maps/mp/_global_fx.gsc (patch_mp): 0x7CF025D9
+maps/mp/_art.gsc (patch_mp): 0x2297F2F9
+maps/mp/_serverfaceanim_mp.gsc (common_mp): 0xEFBD9845
+maps/mp/_interactive_objects.gsc (patch_mp): 0xA58AE7CE
+maps/mp/_fxanim.gsc (patch_mp): 0x5BF76E75
+maps/mp/_load.gsc (patch_mp): 0x7A99A746
+maps/mp/createart/mp_nuketown_2020_art.gsc (mp_nuketown_2020): 0x648F4150
+maps/mp/createfx/mp_nuketown_2020_fx.gsc (mp_nuketown_2020): 0xD1146C48
+maps/mp/mp_nuketown_2020_fx.gsc (mp_nuketown_2020): 0x48D6DC3E
+maps/mp/_events.gsc (mp_nuketown_2020): 0xD0F094FA
+maps/mp/mp_nuketown_2020.gsc (patch_mp): 0x5C1BC7FD
+mpbody/class_sniper_usa_seals.gsc (faction_seals_mp): 0x7966DD84
+mpbody/class_smg_usa_seals.gsc (faction_seals_mp): 0x74CBE711
+mpbody/class_shotgun_usa_seals.gsc (faction_seals_mp): 0x90CA2290
+mpbody/class_lmg_usa_seals.gsc (faction_seals_mp): 0x14D039C3
+mpbody/class_assault_usa_seals.gsc (faction_seals_mp): 0xC354F04E
+maps/mp/teams/_teamset.gsc (patch_mp): 0xAF1D984C
+maps/mp/teams/_teamset_seals.gsc (faction_seals_mp): 0xC72BCA49
+mpbody/class_sniper_rus_pmc.gsc (faction_pmc_mp): 0xE9F9FE3C
+mpbody/class_smg_rus_pmc.gsc (faction_pmc_mp): 0x38DA0E65
+mpbody/class_shotgun_rus_pmc.gsc (faction_pmc_mp): 0xA4FE114A
+mpbody/class_lmg_rus_pmc.gsc (faction_pmc_mp): 0x95CFFB84
+mpbody/class_assault_rus_pmc.gsc (faction_pmc_mp): 0x9A2A4789
+maps/mp/teams/_teamset_pmc.gsc (faction_pmc_mp): 0x4D7DD006
+maps/mp/animscripts/traverse/jump_down_56.gsc (common_mp): 0xCAA09775
+maps/mp/animscripts/traverse/mantle_on_56.gsc (common_mp): 0x5FEECF6D
+maps/mp/animscripts/traverse/mantle_over_40.gsc (common_mp): 0x895458A2
+maps/mp/animscripts/traverse/jump_down_40.gsc (common_mp): 0x2FA5D833
+GSC Executed "scripts/mp/ranked::main()"
+GSC Executed "scripts/hooks::init()"
+GSC Executed "scripts/mp/ranked::init()"
+GSC Executed "scripts/start::init()"
+Hitch warning: 2899 msec frame time on main thread
+client 'forgive' connected
+
+******* server script runtime error *******
+while executing opcode 'OP_BoolNot'
+cannot cast undefined to bool
+scripts/utils::bots_tweaks line 154 column 12
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnFalseExpr'
+cannot cast undefined to bool
+scripts/utils::bots_tweaks line 154 column 12
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'freezecontrols'
+struct is not an entity
+scripts/utils::bots_tweaks line 155 column 9
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* client script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set cheat dvar in CSC
+clientscripts/mp/_load::main
+************************************
+called from:
+	 clientscripts/mp/mp_nuketown_2020::main
+
+Applying pre-patched weapon values for 'dsr50_mp'
+Hitch warning: 758 msec frame time on main thread
+Hitch warning: 744 msec frame time on server thread
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnTrue'
+cannot cast undefined to bool
+scripts/start::onplayerspawned line 45 column 14
+************************************
+called from:
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set dvar as its a command
+scripts/utils::match_tweaks line 136 column 18
+************************************
+called from:
+	 scripts/start::onplayerspawned line 47 column 13
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set dvar as its a command
+scripts/utils::match_tweaks line 139 column 18
+************************************
+called from:
+	 scripts/start::onplayerspawned line 47 column 13
+
+]spawnbot 10
+Spawning 10 bots...
+client 'Jayy' connected
+]eb_magic 50
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+]clone 1
+
+******* server script runtime error *******
+while executing opcode 'OP_CheckClearParams'
+function called with too many parameters
+scripts/misc::clone line 0 column 0
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+]about 1
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands base_viewhands
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'base_viewhands' not precached
+scripts/misc::viewhands line 63 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands z
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'z' not precached
+scripts/misc::viewhands line 63 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands c_mul_mp_cordis_assault_viewhands
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'c_mul_mp_cordis_assault_viewhands' not precached
+scripts/misc::viewhands line 63 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands c_mul_mp_cordis_assault_viewhands
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'c_mul_mp_cordis_assault_viewhands' not precached
+scripts/misc::viewhands line 63 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands c_mul_mp_cordis_assault_viewhands
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'c_mul_mp_cordis_assault_viewhands' not precached
+scripts/misc::viewhands line 63 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'finishplayerdamage'
+type undefined is not an int
+maps/mp/gametypes/_globallogic_player::finishplayerdamagewrapper line 1218 column 5
+************************************
+called from:
+	 maps/mp/gametypes/_globallogic_player::callback_playerdamage line 1061 column 13
+	 scripts/misc::magc_bullets line 50 column 33
+	 scripts/commands::createcommand line 85 column 48
+
+]viewhands c_usa_mp_seal6_longsleeve_viewhands
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+==== ShutdownGame (1) ====
+Dropping client num 0: EXE_DISCONNECTED
+Dropping client num 1: EXE_DISCONNECTED
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Unloading fastfile en_faction_pmc_mp
+Unloading fastfile en_faction_seals_mp
+Unloading fastfile en_mp_nuketown_2020
+Unloading fastfile faction_pmc_mp
+Unloading fastfile faction_seals_mp
+Unloading fastfile mp_nuketown_2020
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Loading fastfile patch_ui_mp
+Loading fastfile en_ui_mp
+Loading fastfile ui_mp
+Built adjacency info for IPaks 21ms
+Hitch warning: 965 msec frame time on main thread
+]devmap mp_nuketown_2020
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_mp
+Unloading fastfile en_ui_mp
+Unloading fastfile patch_ui_mp
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/players
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main_shared
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/main
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/usermaps
+Searching for iwds in G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/mods/t6cine
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/players
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6//
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/raw
+Searching for iwds in C:\Users\forgive\AppData\Local\Plutonium\storage\t6/mods/t6cine
+Searching for files required to download mod: "mods/t6cine"
+found 1 files required for mod download!
+Current language: english
+Current search path:
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/mods/t6cine
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/raw
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6//
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/players
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/mods/t6cine
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/usermaps
+C:\Users\forgive\AppData\Local\Plutonium\storage\t6/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/main_shared
+G:\SteamLibrary\steamapps\common\Call of Duty Black Ops II/players
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Loading fastfile mp_nuketown_2020
+Loading fastfile faction_seals_mp
+Loading fastfile faction_pmc_mp
+Loading fastfile en_mp_nuketown_2020
+Loading fastfile en_faction_seals_mp
+Loading fastfile en_faction_pmc_mp
+Built adjacency info for IPaks 26ms
+Initializing game at 03/05/25 17:47:52 -0500
+Current uptime: 00:11:50
+Level time: 0
+Restart: 0
+------- Game Initialization -------
+gamename: PT6MP
+gamedate: Jan 27 2025
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Script "maps/mp/gametypes/_globallogic_player.gsc" loaded successfully
+Script "maps/mp/gametypes/_rank.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic_ui.gsc" loaded successfully
+Script "scripts/actors.gsc" loaded successfully
+Script "scripts/utils.gsc" loaded successfully
+Script "scripts/defaults.gsc" loaded successfully
+Script "scripts/misc.gsc" loaded successfully
+Script "scripts/bots.gsc" loaded successfully
+Script "scripts/player.gsc" loaded successfully
+Script "scripts/commands.gsc" loaded successfully
+Script "scripts/hooks.gsc" loaded successfully
+Script "scripts/maths.gsc" loaded successfully
+Script "scripts/mp/ranked.gsc" loaded successfully
+Script "scripts/precache.gsc" loaded successfully
+Script "scripts/start.gsc" loaded successfully
+Applying pre-patched weapon values for 'dsr50_mp'
+codescripts/delete.gsc (patch_mp): 0x0B4E32EE
+codescripts/struct.gsc (patch_mp): 0x5A0C849E
+common_scripts/utility.gsc (patch_mp): 0x1447FBB5
+maps/mp/_script_gen.gsc (patch_mp): 0xE3828D0B
+maps/mp/_fx.gsc (patch_mp): 0xCF0DC190
+maps/mp/_createfxmenu.gsc (patch_mp): 0x875AF4D1
+maps/mp/_createfxundo.gsc (patch_mp): 0xED3BDE6C
+maps/mp/_createfx.gsc (patch_mp): 0x2B78DD0D
+maps/mp/gametypes/_hud_util.gsc (patch_mp): 0x73334004
+maps/mp/_utility.gsc (patch_mp): 0xD2E0DC40
+maps/mp/_challenges.gsc (patch_mp): 0x29FE7852
+maps/mp/gametypes/_hud.gsc (patch_mp): 0x705F9540
+maps/mp/gametypes/_hostmigration.gsc (patch_mp): 0xEF9E4FBE
+maps/mp/_music.gsc (patch_mp): 0xA3DAE7A9
+maps/mp/gametypes/_damagefeedback.gsc (patch_mp): 0x6EA1FA18
+maps/mp/_burnplayer.gsc (patch_mp): 0xF91B9826
+maps/mp/_busing.gsc (patch_mp): 0x6C026E66
+maps/mp/gametypes/_tweakables.gsc (patch_mp): 0x0BE5DEEF
+maps/mp/gametypes/_spectating.gsc (patch_mp): 0x2BE6F5F9
+maps/mp/gametypes/_hud_message.gsc (patch_mp): 0xE64FB496
+maps/mp/_medals.gsc (patch_mp): 0xCC5130D1
+maps/mp/_popups.gsc (patch_mp): 0x305CDC8A
+maps/mp/gametypes/_globallogic_vehicle.gsc (patch_mp): 0xCA5BF5DF
+maps/mp/gametypes/_globallogic_actor.gsc (patch_mp): 0x3F489077
+maps/mp/_audio.gsc (patch_mp): 0x250F2D68
+maps/mp/gametypes/_callbacksetup.gsc (patch_mp): 0xC0F31431
+maps/mp/gametypes/_spawnlogic.gsc (patch_mp): 0x47FA3804
+maps/mp/killstreaks/_airsupport.gsc (patch_mp): 0x78150512
+maps/mp/gametypes/_weapon_utils.gsc (patch_mp): 0x64D23923
+maps/mp/_heatseekingmissile.gsc (patch_mp): 0xB717E38B
+maps/mp/_hacker_tool.gsc (patch_mp): 0x17F13503
+maps/mp/_tacticalinsertion.gsc (patch_mp): 0xEFBBC8EF
+maps/mp/gametypes/_spawning.gsc (patch_mp): 0x501161E1
+maps/mp/gametypes/_battlechatter_mp.gsc (patch_mp): 0xC7A91769
+maps/mp/killstreaks/_emp.gsc (patch_mp): 0xA3E9E472
+maps/mp/killstreaks/_killstreakrules.gsc (patch_mp): 0xFBAFC7EB
+maps/mp/killstreaks/_dogs.gsc (patch_mp): 0x4C558883
+maps/mp/animscripts/utility.gsc (common_mp): 0x7556206F
+maps/mp/animscripts/shared.gsc (common_mp): 0xDFCF35AA
+maps/mp/animscripts/dog_flashed.gsc (common_mp): 0x7D998FE8
+maps/mp/_scrambler.gsc (patch_mp): 0x1BEDE721
+maps/mp/_entityheadicons.gsc (patch_mp): 0xD4D284CD
+maps/mp/_mgturret.gsc (patch_mp): 0x17332F4A
+maps/mp/killstreaks/_turret_killstreak.gsc (patch_mp): 0x390E2474
+maps/mp/killstreaks/_remote_weapons.gsc (patch_mp): 0x34ED31F0
+maps/mp/killstreaks/_ai_tank.gsc (patch_mp): 0x82B55CEF
+maps/mp/gametypes/_shellshock.gsc (patch_mp): 0x80913E1F
+maps/mp/_treadfx.gsc (patch_mp): 0x64255A33
+maps/mp/killstreaks/_qrdrone.gsc (patch_mp): 0xE3057C1C
+maps/mp/_flashgrenades.gsc (patch_mp): 0x44B3FD92
+maps/mp/killstreaks/_rcbomb.gsc (patch_mp): 0x1296BF06
+maps/mp/_vehicles.gsc (patch_mp): 0x70A42205
+maps/mp/_ballistic_knife.gsc (patch_mp): 0x89A2A500
+maps/mp/_sensor_grenade.gsc (patch_mp): 0xCBC6419C
+maps/mp/_trophy_system.gsc (patch_mp): 0x5531EACB
+maps/mp/_bouncingbetty.gsc (patch_mp): 0x824AC277
+maps/mp/_proximity_grenade.gsc (patch_mp): 0x2699AE37
+maps/mp/_satchel_charge.gsc (patch_mp): 0x123B0E8F
+maps/mp/gametypes/_weaponobjects.gsc (patch_mp): 0xE9E018C4
+maps/mp/killstreaks/_spyplane.gsc (patch_mp): 0x98394838
+maps/mp/killstreaks/_radar.gsc (patch_mp): 0x6CDD31BE
+maps/mp/gametypes/_objpoints.gsc (patch_mp): 0xECDE0ABD
+maps/mp/gametypes/_gameobjects.gsc (patch_mp): 0x6C28CA46
+maps/mp/_tabun.gsc (patch_mp): 0x86F4ACB0
+maps/mp/_bb.gsc (patch_mp): 0x32A9EFDD
+maps/mp/_riotshield.gsc (patch_mp): 0xFB87E763
+maps/mp/_sticky_grenade.gsc (patch_mp): 0x8F6B52CA
+maps/mp/_explosive_bolt.gsc (patch_mp): 0x8F6B52CA
+maps/mp/_acousticsensor.gsc (patch_mp): 0x23A01F80
+maps/mp/_smokegrenade.gsc (patch_mp): 0x6276E395
+maps/mp/_empgrenade.gsc (patch_mp): 0xF1FDBBAF
+maps/mp/gametypes/_weapons.gsc (patch_mp): 0xACE4208F
+maps/mp/killstreaks/_killstreak_weapons.gsc (patch_mp): 0x1555C3AD
+maps/mp/gametypes/_class.gsc (patch_mp): 0x30A5CF7F
+maps/mp/gametypes/_persistence.gsc (patch_mp): 0x683C2BDE
+maps/mp/teams/_teams.gsc (patch_mp): 0xA48A8E5F
+maps/mp/gametypes/_pregame.gsc (patch_mp): 0xB4CA4A12
+maps/mp/gametypes/_globallogic_ui.gsc (raw (source)): 0x15AF3058 (0x24EBD82F)
+maps/mp/_gameadvertisement.gsc (patch_mp): 0x1180D1E5
+maps/mp/_gamerep.gsc (patch_mp): 0xE431F128
+maps/mp/gametypes/_globallogic_defaults.gsc (patch_mp): 0x66CC08ED
+maps/mp/gametypes/_globallogic_spawn.gsc (patch_mp): 0x5D6FDDCD
+maps/mp/gametypes/_wager.gsc (patch_mp): 0xF5DFB665
+maps/mp/_demo.gsc (patch_mp): 0xD9D0103E
+maps/mp/gametypes/_serversettings.gsc (patch_mp): 0xDF01F9EB
+maps/mp/gametypes/_clientids.gsc (patch_mp): 0x15BD0780
+maps/mp/gametypes/_scoreboard.gsc (patch_mp): 0x6B644917
+maps/mp/gametypes/_killcam.gsc (patch_mp): 0xA3B1AE00
+maps/mp/gametypes/_deathicons.gsc (patch_mp): 0xE1D4B527
+maps/mp/_decoy.gsc (patch_mp): 0xEF11AE1B
+maps/mp/gametypes/_menus.gsc (patch_mp): 0xD563A2F5
+maps/mp/gametypes/_healthoverlay.gsc (patch_mp): 0x1F960948
+maps/mp/gametypes/_friendicons.gsc (patch_mp): 0x3E9A2734
+maps/mp/_multi_extracam.gsc (patch_mp): 0xF0ED5F5D
+maps/mp/gametypes/_globallogic.gsc (raw (source)): 0x38AD17A8 (0x5C536C91)
+maps/mp/gametypes/_rank.gsc (raw (source)): 0x405CE160 (0x27F0CFC7)
+maps/mp/_scoreevents.gsc (patch_mp): 0x37F94BE3
+maps/mp/killstreaks/_helicopter.gsc (patch_mp): 0x5338C0B4
+maps/mp/killstreaks/_supplydrop.gsc (patch_mp): 0x925B6231
+maps/mp/killstreaks/_helicopter_gunner.gsc (patch_mp): 0x237B765E
+maps/mp/gametypes/_dev_class.gsc (patch_mp): 0xE0C3092C
+maps/mp/gametypes/_dev.gsc (patch_mp): 0x932C680F
+maps/mp/bots/_bot_conf.gsc (patch_mp): 0x57D8D9A0
+maps/mp/bots/_bot_combat.gsc (patch_mp): 0x165929A8
+maps/mp/gametypes/koth.gsc (patch_mp): 0xF626B424
+maps/mp/bots/_bot_hq.gsc (patch_mp): 0xEADD1E41
+maps/mp/bots/_bot_koth.gsc (patch_mp): 0x2A8DB626
+maps/mp/gametypes/dom.gsc (patch_mp): 0x9FACDB1B
+maps/mp/bots/_bot_dom.gsc (patch_mp): 0xBE640CC2
+maps/mp/gametypes/dem.gsc (patch_mp): 0x2240C45E
+maps/mp/bots/_bot_dem.gsc (patch_mp): 0x1E22B2F5
+maps/mp/gametypes/ctf.gsc (patch_mp): 0x65A971EB
+maps/mp/bots/_bot_ctf.gsc (patch_mp): 0x55198A88
+maps/mp/bots/_bot_loadout.gsc (patch_mp): 0xB60F1EAD
+maps/mp/bots/_bot.gsc (patch_mp): 0x48843E4F
+maps/mp/gametypes/_globallogic_score.gsc (patch_mp): 0x631EA438
+maps/mp/gametypes/_globallogic_utils.gsc (patch_mp): 0x3EA2F19A
+maps/mp/gametypes/_globallogic_audio.gsc (patch_mp): 0x4A54D908
+maps/mp/killstreaks/_straferun.gsc (patch_mp): 0x451581A1
+maps/mp/killstreaks/_remotemortar.gsc (patch_mp): 0x9E2005C4
+maps/mp/killstreaks/_remotemissile.gsc (patch_mp): 0xF41CA6BA
+maps/mp/killstreaks/_planemortar.gsc (patch_mp): 0x477F8FDA
+maps/mp/killstreaks/_missile_swarm.gsc (patch_mp): 0x5FD63953
+maps/mp/killstreaks/_missile_drone.gsc (patch_mp): 0x667C0FD4
+maps/mp/killstreaks/_helicopter_guard.gsc (patch_mp): 0x2B8146BA
+maps/mp/killstreaks/_killstreaks.gsc (patch_mp): 0x89C149F2
+maps/mp/gametypes/_globallogic_player.gsc (raw (source)): 0x894BEDAF (0x040663EB)
+maps/mp/_destructible.gsc (patch_mp): 0xB5563B98
+maps/mp/animscripts/dog_combat.gsc (patch_mp): 0x5E3E66E0
+maps/mp/animscripts/dog_death.gsc (common_mp): 0x36CB559E
+maps/mp/animscripts/dog_stop.gsc (common_mp): 0x21CB6FCB
+maps/mp/animscripts/dog_move.gsc (common_mp): 0xD81FEDF6
+maps/mp/animscripts/dog_init.gsc (patch_mp): 0xF51338C8
+maps/mp/animscripts/dog_pain.gsc (common_mp): 0x3180E2A5
+maps/mp/animscripts/dog_jump.gsc (common_mp): 0x698B88EA
+maps/mp/animscripts/dog_turn.gsc (common_mp): 0xB29312FB
+common_scripts/default (): 0xA3CC035D
+maps/mp/gametypes/tdm.gsc (patch_mp): 0x9D14529A
+scripts/defaults.gsc (raw (source)): 0xDB75A59E (0x370D4FF3)
+scripts/utils.gsc (raw (source)): 0xB6D9B8FC (0x7534C289)
+scripts/misc.gsc (raw (source)): 0x01DF0279 (0x659810ED)
+scripts/actors.gsc (raw (source)): 0x563ECC6C (0x1CB15320)
+scripts/player.gsc (raw (source)): 0x294DBCE5 (0x8B8EF30D)
+scripts/bots.gsc (raw (source)): 0x75D0F109 (0xE1968A30)
+scripts/commands.gsc (raw (source)): 0x11557D8A (0x4C8CEC06)
+scripts/hooks.gsc (raw (source)): 0x45CB211A (0xF39421EC)
+scripts/maths.gsc (raw (source)): 0xAB16801C (0x1C7CB983)
+scripts/mp/ranked.gsc (raw (source)): 0x2AF92F6C (0x08D9BA2D)
+scripts/precache.gsc (raw (source)): 0xFED3B279 (0xD639591D)
+scripts/start.gsc (raw (source)): 0xA01B69FF (0xF7A998AF)
+maps/mp/_compass.gsc (patch_mp): 0x708747E9
+maps/mp/_ambientpackage.gsc (patch_mp): 0x89111CB1
+maps/mp/mp_nuketown_2020_amb.gsc (mp_nuketown_2020): 0x8A4B262C
+maps/mp/animscripts/traverse/shared.gsc (common_mp): 0x7913AF97
+maps/mp/_development_dvars.gsc (patch_mp): 0xCFF6CD00
+maps/mp/_global_fx.gsc (patch_mp): 0x7CF025D9
+maps/mp/_art.gsc (patch_mp): 0x2297F2F9
+maps/mp/_serverfaceanim_mp.gsc (common_mp): 0xEFBD9845
+maps/mp/_interactive_objects.gsc (patch_mp): 0xA58AE7CE
+maps/mp/_fxanim.gsc (patch_mp): 0x5BF76E75
+maps/mp/_load.gsc (patch_mp): 0x7A99A746
+maps/mp/createart/mp_nuketown_2020_art.gsc (mp_nuketown_2020): 0x648F4150
+maps/mp/createfx/mp_nuketown_2020_fx.gsc (mp_nuketown_2020): 0xD1146C48
+maps/mp/mp_nuketown_2020_fx.gsc (mp_nuketown_2020): 0x48D6DC3E
+maps/mp/_events.gsc (mp_nuketown_2020): 0xD0F094FA
+maps/mp/mp_nuketown_2020.gsc (patch_mp): 0x5C1BC7FD
+mpbody/class_sniper_usa_seals.gsc (faction_seals_mp): 0x7966DD84
+mpbody/class_smg_usa_seals.gsc (faction_seals_mp): 0x74CBE711
+mpbody/class_shotgun_usa_seals.gsc (faction_seals_mp): 0x90CA2290
+mpbody/class_lmg_usa_seals.gsc (faction_seals_mp): 0x14D039C3
+mpbody/class_assault_usa_seals.gsc (faction_seals_mp): 0xC354F04E
+maps/mp/teams/_teamset.gsc (patch_mp): 0xAF1D984C
+maps/mp/teams/_teamset_seals.gsc (faction_seals_mp): 0xC72BCA49
+mpbody/class_sniper_rus_pmc.gsc (faction_pmc_mp): 0xE9F9FE3C
+mpbody/class_smg_rus_pmc.gsc (faction_pmc_mp): 0x38DA0E65
+mpbody/class_shotgun_rus_pmc.gsc (faction_pmc_mp): 0xA4FE114A
+mpbody/class_lmg_rus_pmc.gsc (faction_pmc_mp): 0x95CFFB84
+mpbody/class_assault_rus_pmc.gsc (faction_pmc_mp): 0x9A2A4789
+maps/mp/teams/_teamset_pmc.gsc (faction_pmc_mp): 0x4D7DD006
+maps/mp/animscripts/traverse/jump_down_56.gsc (common_mp): 0xCAA09775
+maps/mp/animscripts/traverse/mantle_on_56.gsc (common_mp): 0x5FEECF6D
+maps/mp/animscripts/traverse/mantle_over_40.gsc (common_mp): 0x895458A2
+maps/mp/animscripts/traverse/jump_down_40.gsc (common_mp): 0x2FA5D833
+GSC Executed "scripts/mp/ranked::main()"
+GSC Executed "scripts/hooks::init()"
+GSC Executed "scripts/mp/ranked::init()"
+GSC Executed "scripts/start::init()"
+Hitch warning: 2705 msec frame time on main thread
+client 'forgive' connected
+
+******* server script runtime error *******
+while executing opcode 'OP_BoolNot'
+cannot cast undefined to bool
+scripts/utils::bots_tweaks line 154 column 12
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnFalseExpr'
+cannot cast undefined to bool
+scripts/utils::bots_tweaks line 154 column 12
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'freezecontrols'
+struct is not an entity
+scripts/utils::bots_tweaks line 155 column 9
+************************************
+called from:
+	 scripts/start::waitforhost line 25 column 5
+
+
+******* client script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set cheat dvar in CSC
+clientscripts/mp/_load::main
+************************************
+called from:
+	 clientscripts/mp/mp_nuketown_2020::main
+
+Applying pre-patched weapon values for 'dsr50_mp'
+Hitch warning: 688 msec frame time on main thread
+Hitch warning: 691 msec frame time on server thread
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnTrue'
+cannot cast undefined to bool
+scripts/start::onplayerspawned line 45 column 14
+************************************
+called from:
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set dvar as its a command
+scripts/utils::match_tweaks line 136 column 18
+************************************
+called from:
+	 scripts/start::onplayerspawned line 47 column 13
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set dvar as its a command
+scripts/utils::match_tweaks line 139 column 18
+************************************
+called from:
+	 scripts/start::onplayerspawned line 47 column 13
+
+]viewhands viewmodel_base_viewhands
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'viewmodel_base_viewhands' not precached
+scripts/misc::viewhands line 64 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]drop 1
+
+******* server script runtime error *******
+while executing opcode 'OP_CheckClearParams'
+function called with too many parameters
+scripts/misc::drop line 14 column 3
+************************************
+called from:
+	 scripts/commands::createcommand line 85 column 48
+
+]listassetpool 
+listassetpool <poolnumber>: lists all the assets in the specified pool
+0 xmodelpieces 64
+1 physpreset 130
+2 physconstraints 64
+3 destructibledef 64
+4 xanim 10400
+5 xmodel 2800
+6 material 9984
+7 techset 2048
+8 image 10752
+9 sound 32
+10 sound_patch 16
+11 col_map_sp 1
+12 col_map_mp 1
+13 com_map 1
+14 game_map_sp 1
+15 game_map_mp 1
+16 map_ents 2
+17 gfx_map 1
+18 lightdef 32
+19 ui_map 0
+20 font 32
+21 fonticon 16
+22 menufile 164
+23 menu 450
+24 localize 28672
+25 weapon 512
+26 weapondef 0
+27 weaponvariant 0
+28 weaponfull 0
+29 attachment 256
+30 attachmentunique 2048
+31 weaponcamo 256
+32 snddriverglobals 1
+33 fx 1200
+34 impactfx 4
+35 aitype 0
+36 mptype 0
+37 mpbody 0
+38 mphead 0
+39 character 0
+40 xmodelalias 0
+41 rawfile 1024
+42 stringtable 96
+43 leaderboarddef 128
+44 xGlobals 1
+45 ddl 24
+46 glasses 1
+47 emblemset 4
+48 scriptparsetree 1024
+49 keyvaluepairs 64
+50 vehicle 32
+51 memoryblock 16
+52 addon_map_ents 1
+53 tracer 50
+54 skinnedverts 1
+55 qdb 4
+56 slug 5
+57 footsteptable 32
+58 footstepfxtable 4
+59 zbarrier 16
+]listassetpool 5
+Listing assets in xmodel pool.
+Asset: mlv/nt_2020_red_house_roof_shell FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_chicom_world FF: common_mp Prio: 54
+Asset: t6_attach_mag_sig556_world FF: common_mp Prio: 54
+Asset: t6_attach_mag_hk416_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_sig556_view FF: common_mp Prio: 54
+Asset: p_rus_penciljar FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_vector_view FF: common_mp Prio: 54
+Asset: collision_clip_256x256x256 FF: common_mp Prio: 54
+Asset: p_pent_manila_folder_dmg FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_drop_box FF: common_mp Prio: 54
+Asset: nt_2020_bookshelf_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_bookshelf_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_bookshelf_03 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_usrpg_world FF: common_mp Prio: 54
+Asset: c_mul_mp_pmc_longsleeve_viewhands FF: faction_pmc_mp Prio: 57
+Asset: t6_attach_mag_msmc_world FF: common_mp Prio: 54
+Asset: t6_attach_smg_silencer1_world FF: common_mp Prio: 54
+Asset: t6_attach_ar_silencer1_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_svu_world FF: common_mp Prio: 54
+Asset: nt_2020_wall_design01 FF: mp_nuketown_2020 Prio: 57
+Asset: c_mul_mp_pmc_shortsleeve_viewhands FF: faction_pmc_mp Prio: 57
+Asset: mp_nuketown_2020_light_post FF: mp_nuketown_2020 Prio: 57
+Asset: t5_foliage_hedge_rounded01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_clock_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_clock_02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_xpr50_view FF: common_mp Prio: 54
+Asset: veh_t6_civ_car_compact_svr FF:  Prio: 0
+Asset: fx_bullet_chain FF: common_mp Prio: 54
+Asset: projectile_t6_drone_tank_missile FF: common_mp Prio: 54
+Asset: nt_2020_flag_greece_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_svu_world FF: common_mp Prio: 54
+Asset: t6_wpn_ar_scarh_world FF: common_mp Prio: 54
+Asset: t6_attach_smg_silencer2_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_an94_world FF: common_mp Prio: 54
+Asset: mlv/nt_2020_house_04_section FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_semtex_projectile FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_emp_world FF: common_mp Prio: 54
+Asset: t6_wpn_tac_insert_detect FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_post_tall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_emp_view FF: common_mp Prio: 54
+Asset: collision_physics_wall_256x256x10 FF: common_mp Prio: 54
+Asset: t6_wpn_tac_insert_stow FF: common_mp Prio: 54
+Asset: t6_wpn_ar_sa58_world FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_svu_view FF: common_mp Prio: 54
+Asset: nt_2020_wall_meter_cap_dest FF: mp_nuketown_2020 Prio: 57
+Asset: fxanim_mp_nuked2025_banner01_mod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_signs_glass_01_bolt FF: mp_nuketown_2020 Prio: 57
+Asset: german_shepherd_vest_black FF: common_mp Prio: 54
+Asset: nt_2020_vista_planter_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_c4_world_detect FF: common_mp Prio: 54
+Asset: t6_wpn_smg_vector_world FF: common_mp Prio: 54
+Asset: nt_nuketown_sign_needle FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_peacekeeper_world FF: common_patch_mp Prio: 55
+Asset: collision_physics_32x32x10 FF: common_mp Prio: 54
+Asset: p_pent_lamp_desk_on FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_fallout_shelter FF: mp_nuketown_2020 Prio: 57
+Asset: p6_dogtags FF: common_mp Prio: 54
+Asset: t6_attach_shotgun_silencer2_world FF: common_mp Prio: 54
+Asset: nt_2020_kitchen_light_01_off FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_electrical_pipes_90deg FF: mp_nuketown_2020 Prio: 57
+Asset: nt_lightswitch FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_bouncing_betty_view FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_post FF: mp_nuketown_2020 Prio: 57
+Asset: p6_express_train_track_b01_flip FF: patch_mp Prio: 65
+Asset: mlv/nt_2020_table_01 FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_house_02_glass_interior FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_sprinkler_01_ceiling FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shotty_870mcs_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_01_head FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_clock_02_minutes FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_xpr50_view FF: common_mp Prio: 54
+Asset: p6_lights_club_recessed_dim FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ar_hk416_grip_world FF: common_mp Prio: 54
+Asset: t6_wpn_trophy_system_world FF: common_mp Prio: 54
+Asset: nt_bedside_drawer_purple FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_cup_warmer_yellow FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_02_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: veh_iw_littlebird_minigun_right FF:  Prio: 0
+Asset: t6_wpn_smg_pdw57_view FF: common_mp Prio: 54
+Asset: nt_2020_flag_canada_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_01_railing_01 FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_02_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_sa58_world FF: common_mp Prio: 54
+Asset: veh_t6_drone_tank_alt FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_judge_view FF: common_mp Prio: 54
+Asset: collision_clip_512x512x512 FF: common_mp Prio: 54
+Asset: fx_wood_splinter01 FF: common_mp Prio: 54
+Asset: fx_wood_splinter02 FF: common_mp Prio: 54
+Asset: popcorn_cup_stack FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_car_base FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_b2023r_world_lh FF: common_mp Prio: 54
+Asset: nt_hydro_wall_holders FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_128x128x10 FF: common_mp Prio: 54
+Asset: nt_2020_wall_clock_02_seconds FF: mp_nuketown_2020 Prio: 57
+Asset: fx_shotgun_shell FF: common_mp Prio: 54
+Asset: t6_wpn_pda_view FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_concussion_projectile FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_judge_world_lh FF: common_mp Prio: 54
+Asset: nt_2020_robot_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_bcpu_world FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_dsr50_view FF: common_mp Prio: 54
+Asset: nt_2020_art_fork_01 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_64x64x10 FF: common_mp Prio: 54
+Asset: t6_attach_mag_ballista_view FF: common_mp Prio: 54
+Asset: t6_wpn_tablet_view FF: common_mp Prio: 54
+Asset: t6_wpn_ar_sa58_view FF: common_mp Prio: 54
+Asset: collision_clip_cylinder_32x128 FF: patch_mp Prio: 65
+Asset: collision_clip_cylinder_32x128 FF: common_mp Prio: 54 | overridden
+Asset: t6_wpn_ar_x95l_world FF: common_mp Prio: 54
+Asset: p6_geo_fountain_base FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_saiga_world FF: common_mp Prio: 54
+Asset: t6_wpn_turret_sentry_gun_red FF: common_mp Prio: 54
+Asset: nt_2020_moving_couch_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_taser_mine_view FF: common_mp Prio: 54
+Asset: collision_clip_512x512x10 FF: common_mp Prio: 54
+Asset: fxanim_mp_nuked2025_sprinkler_mod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_bldg_07_support FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_hellfire_missile FF: common_mp Prio: 54
+Asset: void FF: patch_mp Prio: 65
+Asset: p_jun_fruit_apple FF: mp_nuketown_2020 Prio: 57
+Asset: nt_hydro_shelf_holders FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_crossbow_stow FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_supply_projectile FF: common_mp Prio: 54
+Asset: t6_attach_gl_gp25_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_reflex_view FF: common_mp Prio: 54
+Asset: nt_2020_foliage_plants_flowers03 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_smoke_projectile FF: common_mp Prio: 54
+Asset: t6_attach_sniper_svu_silencer_world FF: common_mp Prio: 54
+Asset: p_glo_cardboardbox_3 FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_cardboardbox_4 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_vzoom_svu_world FF: common_mp Prio: 54
+Asset: viewmodel_hands_no_model FF: common_mp Prio: 54
+Asset: p_rus_hose_modular_connect_end FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shotty_srm1216_world FF: common_mp Prio: 54
+Asset: mlv/nt_vista_red_tent FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_kiosk_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_kiosk_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_kiosk_04 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pda_world FF: common_mp Prio: 54
+Asset: nt_2020_storage_bin FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_nuketown_2020_car01_whole FF: mp_nuketown_2020 Prio: 57
+Asset: p6_light_modern_sconce_off FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_scrambler_world_detect FF:  Prio: 0
+Asset: p_rus_pencil FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_stinger_missile FF: common_mp Prio: 54
+Asset: fxanim_mp_nuked2025_carwash_hoses_mod FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_x95l_world FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_mk48_view FF: common_mp Prio: 54
+Asset: p6_garage_pipes_t FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_02_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: fxuse_oneflag_flagbase_cylinder FF: patch_mp Prio: 65
+Asset: t6_attach_fastmag_ballista_view FF: common_mp Prio: 54
+Asset: t6_attach_ar_silencer1_view FF: common_mp Prio: 54
+Asset: t6_wpn_bouncing_betty_world_detect FF: common_mp Prio: 54
+Asset: com_pipe_4_coupling_ceramic FF: mp_nuketown_2020 Prio: 57
+Asset: foliage_hedge_gumdrop_1 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_nuclear_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_nuclear_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_car_wash_dish FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_vista_ufo_01 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_wall_256x256x10 FF: common_mp Prio: 54
+Asset: p_rus_mountain_desert_b FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_supply_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_msmc_world FF: common_mp Prio: 54
+Asset: t6_wpn_shotty_ksg_world FF: common_mp Prio: 54
+Asset: nt_nuketown_sign FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_04_section FF: mp_nuketown_2020 Prio: 57
+Asset: p6_express_train_track_a01_flip FF: patch_mp Prio: 65
+Asset: veh_t6_air_v78_vtol_killstreak_alt FF: common_mp Prio: 54
+Asset: fx_shotgun_shell_blur FF: common_mp Prio: 54
+Asset: p_jun_bench_wood_02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_chicom_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_male_01_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: c_mul_mp_pmc_lmg_fb FF: faction_pmc_mp Prio: 57
+Asset: t6_attach_bcpu_view FF: common_mp Prio: 54
+Asset: nt_2020_foliage_hedge_boxy01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_rooftop_overhang FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_rangefinder_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_peacekeeper_world FF: common_patch_mp Prio: 55
+Asset: t6_wpn_claymore_world FF: common_mp Prio: 54
+Asset: collision_missile_32x32x128 FF: patch_mp Prio: 65
+Asset: t6_wpn_grenade_frag_world FF: common_mp Prio: 54
+Asset: p_pent_manila_folder_2 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_clock_table FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_s5rocket FF: common_mp Prio: 54
+Asset: mlv/nt_2020_cardboardbox FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_frag_projectile FF: common_mp Prio: 54
+Asset: dest_nt_nuked_male_01_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_recycling_bin FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wood_table FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_smg_silencer2_world FF: common_mp Prio: 54
+Asset: c_mul_mp_pmc_sniper_fb FF: faction_pmc_mp Prio: 57
+Asset: t6_attach_ar_silencer2_world FF: common_mp Prio: 54
+Asset: t6_wpn_claymore_stow FF: common_mp Prio: 54
+Asset: fx_rifle_shell_blur FF: patch_mp Prio: 65
+Asset: t6_attach_optic_vzoom_xpr50_world FF: common_mp Prio: 54
+Asset: iw_ny_harbor_hwsign_02 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_3d_txt_levenim_frnt_gold_0 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_3d_txt_levenim_frnt_gold_1 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_3d_txt_levenim_frnt_gold_2 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_3d_txt_levenim_frnt_gold_3 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_3d_txt_levenim_frnt_gold_4 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_planter01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_sculpture_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_barricade_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_light_recessed_off FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_doorframe_black FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_dishwasher_01 FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_scavenger_pack_obj FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_sa58_view FF: common_mp Prio: 54
+Asset: accessories_book_row03_paris FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_france_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_dualband_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_dsr50_view FF: common_mp Prio: 54
+Asset: venetian_blind_white_open_128x96 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_vzoom_dsr50_world FF: common_mp Prio: 54
+Asset: t6_wpn_trophy_system_view FF: common_mp Prio: 54
+Asset: nt_2020_yellow_chair FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_320_tall_dog FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_yellow_chair_reflection FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_sa58_view FF: common_mp Prio: 54
+Asset: veh_iw_littlebird_minigun_left FF:  Prio: 0
+Asset: t6_attach_pistol_fastmag_view FF: common_mp Prio: 54
+Asset: t6_attach_ar_silencer4_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_reflex_world FF: common_mp Prio: 54
+Asset: t6_wpn_ar_hk416_view FF: common_mp Prio: 54
+Asset: nt_hydro_plant_red FF: mp_nuketown_2020 Prio: 57
+Asset: p6_kitchen_sink_faucet_nozzle FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_neutral_carry FF: common_mp Prio: 54
+Asset: mlv/nt_2020_vista_arch FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_svu_view FF: common_mp Prio: 54
+Asset: nt_2020_space_couch FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_fiveseven_view FF: common_mp Prio: 54
+Asset: collision_clip_32x32x10 FF: common_mp Prio: 54
+Asset: nt_2020_lamp_desk_on FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_xpr50_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_holo_ads FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_svu_scope_view FF: common_mp Prio: 54
+Asset: mp_flag_axis_1 FF: common_mp Prio: 54
+Asset: mp_flag_axis_2 FF: common_mp Prio: 54
+Asset: mp_flag_axis_3 FF: common_mp Prio: 54
+Asset: nt_2020_wall_meter_dest FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_frag_view FF: patch_mp Prio: 65
+Asset: t6_wpn_grenade_frag_view FF: mp_nuketown_2020 Prio: 57 | overridden
+Asset: nt_2020_house_02_railing_01_section FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_rmr_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_rangefinder_ads FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_256 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ar_an94_world FF: common_mp Prio: 54
+Asset: p_glo_manhole02 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_equip_light_grn_unlit FF: common_mp Prio: 54
+Asset: t6_attach_gl_m320_view FF: common_mp Prio: 54
+Asset: t6_wpn_ar_type95_world FF: common_mp Prio: 54
+Asset: hjk_crash_airplane_cabinet_door_med FF: mp_nuketown_2020 Prio: 57
+Asset: nt_hydro_shed FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_judge_view_lh FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_b2023r_view_lh FF: common_mp Prio: 54
+Asset: t6_wpn_minigun_view FF: common_mp Prio: 54
+Asset: veh_t6_drone_rcxd FF: common_mp Prio: 54
+Asset: nt_bench_retro FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_cbu97_clusterbomb FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_dsr50_world FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_kard_world_lh FF: common_mp Prio: 54
+Asset: mlv/nt_2020_tour_bus FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_mailbox_hoggatt FF: mp_nuketown_2020 Prio: 57
+Asset: p6_kitchen_sink_faucet_handles FF: mp_nuketown_2020 Prio: 57
+Asset: p6_la_sculpture_fountain_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_nuketown_sign_base FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_china_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_glass_table FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_320 FF: mp_nuketown_2020 Prio: 57
+Asset: weapon_m84_flashbang_grenade_burnt FF: common_mp Prio: 54
+Asset: nt_hydro_plant_green FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_hk416_view FF: common_mp Prio: 54
+Asset: mp_flag_axis_1_carry FF: common_mp Prio: 54
+Asset: p6_light_modern_sconce_on FF: mp_nuketown_2020 Prio: 57
+Asset: nt_hydro_cabbage_holders FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_type95_world FF: common_mp Prio: 54
+Asset: t6_attach_mag_type95_lmg_view FF: common_mp Prio: 54
+Asset: t5_veh_rcbomb_gib_tire FF: common_mp Prio: 54
+Asset: nt_2020_wall_clock_01_hours FF: mp_nuketown_2020 Prio: 57
+Asset: p6_pak_food_sauce_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_equip_light_grn FF: common_mp Prio: 54
+Asset: p_glo_electrical_pipes_short FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_electrical_pipes_long FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_xpr50_view FF: common_mp Prio: 54
+Asset: mlv/nt_2020_car_wash_frame FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_flashbang_world FF: common_mp Prio: 54
+Asset: nt_2020_flag_raven_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ballistic_knife_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_an94_world FF: common_mp Prio: 54
+Asset: nt_2020_space_chair FF: mp_nuketown_2020 Prio: 57
+Asset: venetian_blind_white_128x96 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_car_wash_hoses FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_straight_skinny FF: mp_nuketown_2020 Prio: 57
+Asset: p6_anim_nautical_flag_01 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_anim_nautical_flag_04 FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_semtex_grenade_bombsquad FF:  Prio: 0
+Asset: collision_physics_512x512x10 FF: common_mp Prio: 54
+Asset: collision_clip_64x64x10 FF: common_mp Prio: 54
+Asset: nt_2020_mailbox_masonfirth FF: mp_nuketown_2020 Prio: 57
+Asset: defaultvehicle FF: patch_mp Prio: 65
+Asset: defaultvehicle FF: code_post_gfx_mp Prio: 52 | overridden
+Asset: t6_wpn_smg_msmc_world FF: common_mp Prio: 54
+Asset: c_usa_mp_seal6_longsleeve_viewhands FF: faction_seals_mp Prio: 57
+Asset: com_potted_plant01 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_veh_rcbomb_gib_large FF: common_mp Prio: 54
+Asset: mlv/nt_2020_house_02_couch FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_dbal_view FF: common_mp Prio: 54
+Asset: t6_attach_grip_world FF: common_mp Prio: 54
+Asset: t6_wpn_turret_sentry_gun_detect FF: common_mp Prio: 54
+Asset: nt_2020_button_04_blue FF: mp_nuketown_2020 Prio: 57
+Asset: p_jun_fruit_bananas_single FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shotty_saiga_view FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_hamr_world FF: common_mp Prio: 54
+Asset: t6_attach_dbal_world FF: common_mp Prio: 54
+Asset: t6_wpn_c4_view FF: common_mp Prio: 54
+Asset: ma_cup_single_closed_static FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_turret_ads_carry FF: common_mp Prio: 54
+Asset: t6_attach_mag_type95_view FF: common_mp Prio: 54
+Asset: veh_t6_drone_overwatch_dead_piece_1 FF: common_mp Prio: 54
+Asset: veh_t6_drone_overwatch_dead_piece_2 FF: common_mp Prio: 54
+Asset: veh_t6_drone_overwatch_dead_piece_3 FF: common_mp Prio: 54
+Asset: t6_wpn_supply_drop_detect FF: common_mp Prio: 54
+Asset: hjk_crash_airplane_cabinet_door_lrg FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_treyarch_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_lmg_lsat_world FF: common_mp Prio: 54
+Asset: nt_2020_dish_mug FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_nuketown_2020_car02_whole FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_shelf_modern FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_vista_kiosk_green FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_art_spoon_01 FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_03_head FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_air_a10f_alt FF: common_mp Prio: 54
+Asset: fx_decal_burnt_paper2 FF: mp_nuketown_2020 Prio: 57
+Asset: fx_decal_burnt_paper3 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_vector_view FF: common_mp Prio: 54
+Asset: t6_attach_speedloader_view FF: common_mp Prio: 54
+Asset: p6_industrial_tubing_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_smg_silencer1_view FF: common_mp Prio: 54
+Asset: nt_2020_pipes_90_blue FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_sniper_silencer1_world FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_flashbang_projectile FF: common_mp Prio: 54
+Asset: t6_wpn_ballistic_knife_projectile FF: common_mp Prio: 54
+Asset: t6_wpn_turret_ads_carry_animate FF: common_mp Prio: 54
+Asset: t6_wpn_trophy_system_world_detect FF: common_mp Prio: 54
+Asset: t6_attach_mag_ballista_world FF: common_mp Prio: 54
+Asset: nt_generator_blue FF: mp_nuketown_2020 Prio: 57
+Asset: c_usa_mp_seal6_smg_fb FF: faction_seals_mp Prio: 57
+Asset: t6_attach_optic_vzoom_ballista_world FF: common_mp Prio: 54
+Asset: utility_lightbulb_bare_on FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_combo_world FF: common_mp Prio: 54
+Asset: nt2020_sofa_pillow FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shield_view FF: common_mp Prio: 54
+Asset: t6_wpn_bouncing_betty_world FF: common_mp Prio: 54
+Asset: nt_2020_foliage_hedge_sphere FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_taser_mine_world_detect FF: common_mp Prio: 54
+Asset: collision_clip_128x128x128 FF: patch_mp Prio: 65
+Asset: collision_clip_128x128x128 FF: common_mp Prio: 54 | overridden
+Asset: nt_intercom FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_64x64x128 FF: common_mp Prio: 54
+Asset: t6_wpn_turret_sentry_gun FF: common_mp Prio: 54
+Asset: fxanim_mp_nuked2025_gate_sign02_mod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_dish_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_dish_03 FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/p6_con_locker_door FF: patch_mp Prio: 65
+Asset: dest_nt_nuked_male_01_head FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_turret_ads_world FF: common_mp Prio: 54
+Asset: veh_t6_drone_tank FF: common_mp Prio: 54
+Asset: t6_attach_mag_mp7_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_holo_view FF: common_mp Prio: 54
+Asset: tag_microwavefx FF: common_mp Prio: 54
+Asset: collision_vehicle_32x32x10 FF:  Prio: 0
+Asset: afr_curtain_rod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_foliage_hedge_rounded01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_foliage_hedge_rounded02 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_garage_pipes_camera FF: mp_nuketown_2020 Prio: 57
+Asset: nt_concrete_fence_post_tall02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_kard_view FF: common_mp Prio: 54
+Asset: p6_pool_towel_unfolded_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shield_view_red FF: common_mp Prio: 54
+Asset: p6_nitrogen_tank_new FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_01_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_ar_silencer3_world FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_type95_world FF: common_mp Prio: 54
+Asset: nt_hydro_cabbage_seedling FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_flagpole_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_svu_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_type95_world FF: common_mp Prio: 54
+Asset: com_plasticcase_enemy FF:  Prio: 0
+Asset: t6_attach_optic_dualband_mount_world FF: common_mp Prio: 54
+Asset: german_shepherd FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_2 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_4 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_6 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_7 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_8 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_9 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_dsr50_scope_world FF: common_mp Prio: 54
+Asset: nt_2020_mattress_small FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_launch_fhj18_view FF: common_mp Prio: 54
+Asset: nt_2020_house_02_curtains_01 FF: mp_nuketown_2020 Prio: 57
+Asset: bathroom_towel_rack FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_drop_box_panel FF: common_mp Prio: 54
+Asset: veh_t6_drone_pegasus_mp FF: common_mp Prio: 54
+Asset: p6_industrial_toolbox_static FF: mp_nuketown_2020 Prio: 57
+Asset: fxanim_mp_nuked2025_gate_sign03_mod FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_rangefinder_world FF: common_mp Prio: 54
+Asset: t6_wpn_uav_radio_world FF: common_mp Prio: 54
+Asset: t6_attach_shotgun_silencer2_view FF: common_mp Prio: 54
+Asset: nt_2020_sign_numbers_small FF: mp_nuketown_2020 Prio: 57
+Asset: p_rus_duct_tape FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_02_cabinet_reflection FF: mp_nuketown_2020 Prio: 57
+Asset: ma_cup_single_spilled FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_japan_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_xpr50_world FF: common_mp Prio: 54
+Asset: nt_2020_vista_streetlight_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_pistol_fastmag_world FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_smoke_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_m32_ads FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_03_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_robot_shed FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_mp7_view FF: common_mp Prio: 54
+Asset: nt_trash_compactor_green FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ar_xm8_view FF: common_mp Prio: 54
+Asset: collision_mp_takeoff_solar_weap FF: patch_mp Prio: 65
+Asset: furniture_lawn_chair_1 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_launch_fhj18_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_dualband_mount_view FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_lsat_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_dsr50_world FF: common_mp Prio: 54
+Asset: t6_wpn_launch_m32_view FF: common_mp Prio: 54
+Asset: collision_nosight_wall_64x64x10 FF: patch_mp Prio: 65
+Asset: t6_attach_pistol_silencer_view FF: common_mp Prio: 54
+Asset: dest_electronic_outlet01_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_foliage_hedge_boxy_2_set FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_nuketown_2020_car01_clean FF: mp_nuketown_2020 Prio: 57
+Asset: fx_char_gib_chunk_meat01 FF: common_mp Prio: 54
+Asset: fx_char_gib_chunk_meat02 FF: common_mp Prio: 54
+Asset: p_us_parkingcone FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_house_02_glass_exterior FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_supply_alt FF: common_mp Prio: 54
+Asset: nt_2020_glass_sign_shelter FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_256x256x10 FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_concussion_view FF: common_mp Prio: 54
+Asset: t6_wpn_launch_usrpg_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_05_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_wlp_world FF: common_mp Prio: 54
+Asset: nt_2020_grill FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_an94_view FF: common_mp Prio: 54
+Asset: t6_wpn_briefcase_bomb_view FF: common_mp Prio: 54
+Asset: t6_wpn_ar_an94_view FF: common_mp Prio: 54
+Asset: p6_zm_nuked_table_art FF: mp_nuketown_2020 Prio: 57
+Asset: p6_kitchen_sink_double FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shield_carry_world FF: common_mp Prio: 54
+Asset: t6_wpn_projectile_rpg7 FF: common_mp Prio: 54
+Asset: t6_attach_optic_vzoom_ballista_view FF: common_mp Prio: 54
+Asset: p_glo_manhole02_frame FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_civ_car_compact FF:  Prio: 0
+Asset: nt_radio_wall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_lmg_hamr_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_peacekeeper_view FF: common_patch_mp Prio: 55
+Asset: dest_rus_door_58_01_hinge_a_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: fx_decal_burnt_paper FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_32x32x32 FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_b2023r_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_an94_view FF: common_mp Prio: 54
+Asset: projectile_m203grenade FF: common_mp Prio: 54
+Asset: t6_wpn_motion_sensor_world_detect FF: common_mp Prio: 54
+Asset: t6_attach_mag_scorpion_world FF: common_mp Prio: 54
+Asset: t6_attach_mag_xm8_view FF: common_mp Prio: 54
+Asset: mp_nuketown_2020_vista_bldg_10 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_11 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_street_gate_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_street_gate_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_street_gate_03 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_australia_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_type05_lmg_world FF: common_mp Prio: 54
+Asset: nt_bedside_drawer FF: mp_nuketown_2020 Prio: 57
+Asset: nt_tv_wall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_supply_drop_axis FF: common_mp Prio: 54
+Asset: nt_2020_wall_clock_02_hours FF: mp_nuketown_2020 Prio: 57
+Asset: berlin_patio_bench FF: mp_nuketown_2020 Prio: 57
+Asset: fx_axis_createfx FF: common_mp Prio: 54
+Asset: nt_2020_mailbox_woods FF: mp_nuketown_2020 Prio: 57
+Asset: p_pent_cords_4 FF: mp_nuketown_2020 Prio: 57
+Asset: fx_decal_character_blood FF: common_mp Prio: 54
+Asset: p6_garage_pipes_1x128 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_door_raid_white FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_uav_radio_view FF: common_mp Prio: 54
+Asset: t6_wpn_smg_scorpion_view FF: common_mp Prio: 54
+Asset: collision_tvs_anchor_desk01 FF: patch_mp Prio: 65
+Asset: t6_attach_mag_pdw57_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_ballista_world FF: common_mp Prio: 54
+Asset: t6_wpn_ballistic_knife_blade_retrieve FF: common_mp Prio: 54
+Asset: t6_wpn_ar_hk416_grip_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_peacekeeper_world FF: common_patch_mp Prio: 55
+Asset: collision_physics_wall_128x128x10 FF: common_mp Prio: 54
+Asset: veh_t6_drone_hunterkiller_viewmodel FF: common_mp Prio: 54
+Asset: berlin_com_light_ceiling_round_off FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_remote_control_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_remote_control_02 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_10 FF: mp_nuketown_2020 Prio: 57
+Asset: ny_harbor_veh_civ_car_a_11 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_hatchet_world_retrieve FF: common_mp Prio: 54
+Asset: t5_weapon_crossbow_bolt FF: common_mp Prio: 54
+Asset: p6_garage_pipes_90deg03 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_ashtray_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_crossbow_bolt_exp FF: common_mp Prio: 54
+Asset: collision_clip_64x64x128 FF: common_mp Prio: 54
+Asset: mlv/nt_2020_house_01_balcony FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_128_tall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_claymore_world_detect FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_chicom_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_05_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: fxanim_mp_nuked2025_dome_mod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_books_row01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_books_row02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_books_row03 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_air_vent FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ar_x95l_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_scar_world FF: common_mp Prio: 54
+Asset: nt_2020_fridge FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_hatchet_world FF: common_mp Prio: 54
+Asset: collision_physics_wall_32x32x10 FF: common_mp Prio: 54
+Asset: p6_lights_club_recessed_off FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_kard_world FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_03_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_desk FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_tree_ficus_lrg_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_ballista_scope_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_mp7_view FF: common_mp Prio: 54
+Asset: nt_2020_vista_kiosk_04_brown FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_x95l_view FF: common_mp Prio: 54
+Asset: t6_wpn_shotty_srm1216_view FF: common_mp Prio: 54
+Asset: veh_t6_air_a10f FF: common_mp Prio: 54
+Asset: nt_2020_light_fixture FF: mp_nuketown_2020 Prio: 57
+Asset: viewmodel_default FF: patch_mp Prio: 65
+Asset: t6_attach_sniper_silencer2_world FF: common_mp Prio: 54
+Asset: nt_2020_moving_chair_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_hamr_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_acog_view FF: common_mp Prio: 54
+Asset: nt_2020_dolly_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_towel_kitchen_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_towel_kitchen_02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_ar_silencer3_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_combo_view FF: common_mp Prio: 54
+Asset: defaultactor FF: code_post_gfx_mp Prio: 52
+Asset: t6_wpn_shotty_870mcs_world FF: common_mp Prio: 54
+Asset: fx_glass_piece01 FF: common_mp Prio: 54
+Asset: fx_glass_piece02 FF: common_mp Prio: 54
+Asset: t6_wpn_shield_carry_world_detect FF: common_mp Prio: 54
+Asset: t6_wpn_ar_hk416_world FF: common_mp Prio: 54
+Asset: projectile_at4 FF: common_mp Prio: 54
+Asset: t6_wpn_knife_melee FF: common_mp Prio: 54
+Asset: veh_t6_drone_supply FF: common_mp Prio: 54
+Asset: mp_flag_allies_1_carry FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_smoke_view FF: common_mp Prio: 54
+Asset: mlv/nt_2020_vista_kiosk_blue FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_256x256x256 FF: common_mp Prio: 54
+Asset: p_glo_doorknob1 FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_2020_vista_kiosk_yellow FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_overwatch_dark FF: common_mp Prio: 54
+Asset: prop_suitcase_bomb FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_axis_2_carry FF: common_mp Prio: 54
+Asset: t6_wpn_ar_sig556_view FF: common_mp Prio: 54
+Asset: t6_wpn_ar_saritch_view FF: common_mp Prio: 54
+Asset: skybox_mp_nuketown2020 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_scar_view FF: common_mp Prio: 54
+Asset: t6_wpn_smg_scorpion_world FF: common_mp Prio: 54
+Asset: nt_kitchen_wall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_ar_silencer4_world FF: common_mp Prio: 54
+Asset: weapon_us_smoke_grenade_burnt FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_svu_scope_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_specter_view FF: common_mp Prio: 54
+Asset: nt_2020_globe FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_hunterkiller FF: common_mp Prio: 54
+Asset: t6_attach_mag_scar_view FF: common_mp Prio: 54
+Asset: c_mul_mp_pmc_assault_fb FF: faction_pmc_mp Prio: 57
+Asset: veh_t6_engine_part1 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_ethiopia_01 FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_engine_part3 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_crossbow_world FF: common_mp Prio: 54
+Asset: nt_hydro_lettuce_seedling FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_foliage_hedge_boxy_3_set FF: mp_nuketown_2020 Prio: 57
+Asset: fx_char_gib_chunk_fat FF: common_mp Prio: 54
+Asset: nt_2020_cup_warmer_blue FF: mp_nuketown_2020 Prio: 57
+Asset: fx_bullet_chain_blur FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_saritch_view FF: common_mp Prio: 54
+Asset: nt_2020_chair_yellowgreen FF: mp_nuketown_2020 Prio: 57
+Asset: p_rus_tape_dispenser FF: mp_nuketown_2020 Prio: 57
+Asset: p_rus_vent_ext_round FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_rmr_view FF: patch_mp Prio: 65
+Asset: t6_attach_optic_rmr_view FF: common_mp Prio: 54 | overridden
+Asset: mp_nuked_townsign FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_scorpion_world FF: common_mp Prio: 54
+Asset: t6_attach_optic_m32_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_acog_world FF: common_mp Prio: 54
+Asset: nt_2020_flag_england_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_hk416_world FF: common_mp Prio: 54
+Asset: nt_2020_flag_spain_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2025_chess_board FF: mp_nuketown_2020 Prio: 57
+Asset: toy_honeybadger FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_pistol_silencer_world FF: common_mp Prio: 54
+Asset: toy_alien FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_car_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_kitchen_light_01 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_express_train_track_a01 FF: patch_mp Prio: 65
+Asset: p6_express_train_track_a02 FF: patch_mp Prio: 65
+Asset: p6_express_train_track_a03 FF: patch_mp Prio: 65
+Asset: dest_nt_nuked_male_03_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_100_tall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_x95l_view FF: common_mp Prio: 54
+Asset: veh_t6_drone_rcxd_alt FF: common_mp Prio: 54
+Asset: collision_clip_wall_128x128x10 FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_xm8_view FF: common_mp Prio: 54
+Asset: collision_missile_256x256x10 FF: patch_mp Prio: 65
+Asset: nt_hydro_plate FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_nuketown_2020_car02_clean FF: mp_nuketown_2020 Prio: 57
+Asset: pictureframe_painting_tall_11 FF: mp_nuketown_2020 Prio: 57
+Asset: pictureframe_painting_tall_12 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_green FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_sig556_view FF: common_mp Prio: 54
+Asset: collision_physics_64x64x256 FF: common_mp Prio: 54
+Asset: mlv/nt_2020_bed_fullsize_01 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_256x256x10 FF: common_mp Prio: 54
+Asset: t6_wpn_launch_m32_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_msmc_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_01_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_512x512x512 FF: common_mp Prio: 54
+Asset: p6_lights_club_recessed FF: mp_nuketown_2020 Prio: 57
+Asset: c_usa_mp_seal6_lmg_fb FF: faction_seals_mp Prio: 57
+Asset: t6_wpn_sniper_ballista_scope_world FF: common_mp Prio: 54
+Asset: t6_wpn_shotty_ksg_view FF: common_mp Prio: 54
+Asset: t6_attach_sniper_silencer2_view FF: common_mp Prio: 54
+Asset: t6_wpn_tac_insert_view FF: common_mp Prio: 54
+Asset: soccer_ball_static FF: mp_nuketown_2020 Prio: 57
+Asset: nt_nuketown_sign_topper FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_01_cabinet FF: mp_nuketown_2020 Prio: 57
+Asset: collision_physics_64x64x64 FF: common_mp Prio: 54
+Asset: t6_attach_mag_msmc_view FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_flashbang_view FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_fiveseven_world_lh FF: common_mp Prio: 54
+Asset: dest_nt_nuked_male_03_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_equip_light_red FF: common_mp Prio: 54
+Asset: nt_2020_flag_germany_01 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_32x32x32 FF: common_mp Prio: 54
+Asset: nt_2020_flag_egypt_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_semtex_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_mms_world FF: common_mp Prio: 54
+Asset: t6_wpn_shield_pickup_world FF: common_mp Prio: 54
+Asset: t6_wpn_supply_drop_trap FF: common_mp Prio: 54
+Asset: p6_bag_spice FF: mp_nuketown_2020 Prio: 57
+Asset: nt_rag_doll_blond FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_peacekeeper_view FF: common_patch_mp Prio: 55
+Asset: p_us_restaurant_plate FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_wlp_view FF: common_mp Prio: 54
+Asset: nt_2020_hifi_shelf FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_02_balcony FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_light_modern FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_xpr50_world FF: common_mp Prio: 54
+Asset: veh_t6_civ_car_compact_grey FF:  Prio: 0
+Asset: veh_t6_air_fa38_killstreak_alt FF: common_mp Prio: 54
+Asset: collision_physics_wall_64x64x10 FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_256_tall FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_quad_rotor_dead_rotor FF: common_mp Prio: 54
+Asset: projectile_sidewinder_missile FF: common_mp Prio: 54
+Asset: t6_attach_optic_mms_view FF: common_mp Prio: 54
+Asset: dub_lounge_table_03 FF: mp_nuketown_2020 Prio: 57
+Asset: p6_garage_pipes_sprinkler FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_launch_fhj18_stow FF: common_mp Prio: 54
+Asset: c_mul_mp_pmc_shotgun_fb FF: faction_pmc_mp Prio: 57
+Asset: p_glo_books_single FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_pipes_group_blue FF: mp_nuketown_2020 Prio: 57
+Asset: t5_foliage_hedge_boxy01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_dsr50_world FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_156_tall FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_art_prop_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_art_prop_03 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_art_prop_04 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_fiveseven_world FF: common_mp Prio: 54
+Asset: collision_physics_wall_512x512x10 FF: common_mp Prio: 54
+Asset: t6_attach_mag_vector_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_saiga_view FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_05_head FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_saritch_view FF: common_mp Prio: 54
+Asset: t6_wpn_c4_stow FF: common_mp Prio: 54
+Asset: t6_wpn_turret_ads_carry_red FF: common_mp Prio: 54
+Asset: fxanim_mp_nuked2025_display_glass_mod FF: mp_nuketown_2020 Prio: 57
+Asset: foliage_gardenflowers_red_group FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_gl_gp25_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_holo_world FF: common_mp Prio: 54
+Asset: nt_hydro_courtyard FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_lava_lamp_01 FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_rpg7 FF:  Prio: 0
+Asset: p_glo_books_row01 FF: mp_nuketown_2020 Prio: 57
+Asset: dub_flower_vase_dp12 FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_books_row02 FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_books_row03 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ballistic_knife_world FF: common_mp Prio: 54
+Asset: t6_attach_shotgun_silencer1_view FF: common_mp Prio: 54
+Asset: t6_attach_optic_specter_world FF: common_mp Prio: 54
+Asset: t6_attach_gl_m320_world FF: common_mp Prio: 54
+Asset: t6_wpn_crossbow_view FF: common_mp Prio: 54
+Asset: nt_2020_vista_sign_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_grip_vector_view FF: common_mp Prio: 54
+Asset: collision_vehicle_128x128x128 FF:  Prio: 0
+Asset: veh_t6_drone_overwatch_light FF: common_mp Prio: 54
+Asset: paris_kitchen_shelf_short FF: mp_nuketown_2020 Prio: 57
+Asset: p6_dogtags_friend FF: common_mp Prio: 54
+Asset: t6_wpn_tac_insert_world FF: common_mp Prio: 54
+Asset: t5_veh_rcbomb_gib_med FF: common_mp Prio: 54
+Asset: nt_2020_house_01_cabinet_reflection FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_allies_2_carry FF: common_mp Prio: 54
+Asset: nt_2020_modern_desk FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_male_03_head FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_c4_world FF: common_mp Prio: 54
+Asset: p_pent_coffeemug FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_02_head FF: mp_nuketown_2020 Prio: 57
+Asset: p_glo_bomb_stack_d FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_msmc_view FF: common_mp Prio: 54
+Asset: t6_wpn_tablet_world FF: common_mp Prio: 54
+Asset: mlv/nt_2020_vista_kiosk_red FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_xpr50_scope_world FF: common_mp Prio: 54
+Asset: p6_express_train_track_b01 FF: patch_mp Prio: 65
+Asset: t5_weapon_camera_head_world FF: common_mp Prio: 54
+Asset: nt_2020_mailbox_mason FF: mp_nuketown_2020 Prio: 57
+Asset: fx_pistol_shell_blur FF: common_mp Prio: 54
+Asset: mp_flag_axis_3_carry FF: common_mp Prio: 54
+Asset: nt_2020_wall_meter_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_shuffleboard_puck_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_shuffleboard_puck_02 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_01 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_02 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_03 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_04 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_05 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_06 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_07 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_08 FF: mp_nuketown_2020 Prio: 57
+Asset: mp_nuketown_2020_vista_bldg_09 FF: mp_nuketown_2020 Prio: 57
+Asset: p_jun_plate_dine FF: mp_nuketown_2020 Prio: 57
+Asset: defaultweapon FF: patch_mp Prio: 65
+Asset: t6_wpn_ballistic_knife_blade_view FF: common_mp Prio: 54
+Asset: dub_rest_vase_alone FF: mp_nuketown_2020 Prio: 57
+Asset: nt_kitchen_table FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_usa_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_fnp45_world FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_type95_view FF: common_mp Prio: 54
+Asset: veh_t6_drone_quad_rotor_mp FF: common_mp Prio: 54
+Asset: t6_wpn_launch_usrpg_world FF: common_mp Prio: 54
+Asset: collision_clip_64x64x256 FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_mp7_world FF: common_mp Prio: 54
+Asset: t6_attach_mag_chicom_view FF: common_mp Prio: 54
+Asset: t6_attach_mag_pdw57_view FF: common_mp Prio: 54
+Asset: collision_slums_curved_wall FF: patch_mp Prio: 65
+Asset: t6_attach_fastmag_chicom_world FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_straight_tall FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_house_02_cabinet FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_bedroom_stand FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_grip_view FF: common_mp Prio: 54
+Asset: t6_wpn_smg_pdw57_world FF: common_mp Prio: 54
+Asset: mp_flag_red FF: common_mp Prio: 54
+Asset: t6_attach_mag_mp7_world FF: common_mp Prio: 54
+Asset: nt_2020_light_sculpture FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shield_stow_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_scar_world FF: common_mp Prio: 54
+Asset: nt_sign_population_vcs FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_shuffleboard_puck_stick FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_male_03_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: com_flower_red2 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_ballista_world FF: common_mp Prio: 54
+Asset: t6_wpn_ar_xm8_world FF: common_mp Prio: 54
+Asset: t6_wpn_motion_sensor_world FF: common_mp Prio: 54
+Asset: nt_2020_food_dispenser_blue FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_swing_set FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_meter_numbers FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_concussion_world FF: common_mp Prio: 54
+Asset: mlv/nt_2020_house_small_roof_shell FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_male_01_arm_left FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_sphere_32 FF: common_mp Prio: 54
+Asset: p_glo_scavenger_pack FF: common_mp Prio: 54
+Asset: popcorn_cup_single FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_sa58_world FF: common_mp Prio: 54
+Asset: nt_2020_cup_holder FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_192_tall FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_vzoom_dsr50_view FF: common_mp Prio: 54
+Asset: projectile_tag FF: common_mp Prio: 54
+Asset: veh_t6_air_attack_heli_mp_dark FF: common_mp Prio: 54
+Asset: t6_wpn_ar_saritch_world FF: common_mp Prio: 54
+Asset: p6_garage_pipes_1x32 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_light_fixture_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_vector_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_peacekeeper_view FF: common_patch_mp Prio: 55
+Asset: collision_clip_wall_32x32x10 FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_svu_world FF: common_mp Prio: 54
+Asset: vehicle_mi24p_hind_desert_d_piece02 FF: common_mp Prio: 54
+Asset: c_usa_mp_seal6_assault_fb FF: faction_seals_mp Prio: 57
+Asset: nt_2020_curtains_short_02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_curtains_short_03 FF: mp_nuketown_2020 Prio: 57
+Asset: fx_debris_stone_01 FF: common_mp Prio: 54
+Asset: collision_physics_32x32x128 FF: common_mp Prio: 54
+Asset: nt_2020_flag_fair_01 FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_civ_car_compact_red FF:  Prio: 0
+Asset: collision_clip_wall_512x512x10 FF: common_mp Prio: 54
+Asset: nt_water_barrel FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_320_tall_dog_02 FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_05_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: p_dest_clock_glo01_base FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_cans_single02 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_cans_single03 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_64x64x64 FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_dsr50_scope_view FF: common_mp Prio: 54
+Asset: nt_2020_greenhouse_plant_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_greenhouse_plant_02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_vzoom_svu_view FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_saiga_world FF: common_mp Prio: 54
+Asset: t6_attach_ar_silencer2_view FF: common_mp Prio: 54
+Asset: pb_nitrogen_tank FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_launch_smaw_missile FF: common_mp Prio: 54
+Asset: t6_wpn_hatchet_view FF: common_mp Prio: 54
+Asset: t6_attach_shotgun_silencer1_world FF: common_mp Prio: 54
+Asset: mp_flag_allies_1 FF: common_mp Prio: 54
+Asset: t6_wpn_ar_sig556_world FF: common_mp Prio: 54
+Asset: mp_flag_allies_2 FF: common_mp Prio: 54
+Asset: mp_flag_allies_3 FF: common_mp Prio: 54
+Asset: collision_slums_curved_wall_bullet FF: patch_mp Prio: 65
+Asset: p6_express_train_track_a02_flip FF: patch_mp Prio: 65
+Asset: nt_entertainment_center FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_320_tall FF: mp_nuketown_2020 Prio: 57
+Asset: dest_nt_nuked_female_03_d0 FF: mp_nuketown_2020 Prio: 57
+Asset: fx_rifle_shell FF: patch_mp Prio: 65
+Asset: t6_wpn_pistol_fnp45_world_lh FF: common_mp Prio: 54
+Asset: german_shepherd_vest FF: common_mp Prio: 54
+Asset: t6_wpn_launch_smaw_world FF: common_patch_mp Prio: 55
+Asset: t6_wpn_launch_smaw_world FF: common_mp Prio: 54 | overridden
+Asset: nt_electrical_outlet FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_air_fa38_killstreak FF: common_mp Prio: 54
+Asset: t6_wpn_knife_base_view FF: common_mp Prio: 54
+Asset: nt_2020_flag_brazil_01 FF: mp_nuketown_2020 Prio: 57
+Asset: p_rus_stapler FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_fnp45_view_lh FF: common_mp Prio: 54
+Asset: foliage_gardenflowers_blue_group FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_green_chair FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_tree_ficus_lrg_01_sway FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_pipes_modular_valve FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_supply_drop_ally FF: common_mp Prio: 54
+Asset: t6_attach_sniper_svu_silencer_view FF: common_mp Prio: 54
+Asset: t5_foliage_shrubs02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_x95l_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_sig556_world FF: common_mp Prio: 54
+Asset: nt_2020_button_04_red FF: mp_nuketown_2020 Prio: 57
+Asset: collision_clip_ramp FF: common_mp Prio: 54
+Asset: collision_clip_wall_64x64x10 FF: common_mp Prio: 54
+Asset: t6_wpn_supply_drop_hq FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_shelves_modern FF: mp_nuketown_2020 Prio: 57
+Asset: p6_monsoon_lab_door_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_optic_vzoom_xpr50_view FF: common_mp Prio: 54
+Asset: c_mul_mp_pmc_smg_fb FF: faction_pmc_mp Prio: 57
+Asset: veh_t6_drone_cuav FF: common_mp Prio: 54
+Asset: t6_wpn_ar_type95_view FF: common_mp Prio: 54
+Asset: t6_wpn_ballistic_knife_blade_world FF: common_mp Prio: 54
+Asset: t5_veh_rcbomb_gib_battery FF: common_mp Prio: 54
+Asset: t6_attach_mag_chicom_world FF: common_mp Prio: 54
+Asset: t6_wpn_lmg_mk48_world FF: common_mp Prio: 54
+Asset: dest_nt_nuked_female_01_arm_right FF: mp_nuketown_2020 Prio: 57
+Asset: nt_sign_population FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_judge_world FF: common_mp Prio: 54
+Asset: com_flower_yellow3 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_switzerland_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t5_weapon_mp_crossbow_stow FF: common_mp Prio: 54
+Asset: machinery_solar_panels_on_post_top FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_xm8_world FF: common_mp Prio: 54
+Asset: collision_clip_128x128x10 FF: common_mp Prio: 54
+Asset: fx_pistol_shell FF: common_mp Prio: 54
+Asset: c_usa_mp_seal6_shortsleeve_viewhands FF: faction_seals_mp Prio: 57
+Asset: com_flower_blue3 FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_quad_rotor_dead_piece1 FF: common_mp Prio: 54
+Asset: veh_t6_drone_quad_rotor_dead_piece2 FF: common_mp Prio: 54
+Asset: t6_wpn_turret_ads_carry_animate_red FF: common_mp Prio: 54
+Asset: p_glo_bomb_stack FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_xm8_world FF: common_mp Prio: 54
+Asset: t6_attach_grip_vector_world FF: common_mp Prio: 54
+Asset: collision_physics_128x128x128 FF: common_mp Prio: 54
+Asset: t6_wpn_claymore_view FF: common_mp Prio: 54
+Asset: t6_wpn_grenade_semtex_world FF: common_mp Prio: 54
+Asset: nt_2020_doorframe_white FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_paver_circle_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_turret_ads_world_red FF: common_mp Prio: 54
+Asset: nt_trash_compactor_blue FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_knife_base_world FF: common_mp Prio: 54
+Asset: t6_wpn_motion_sensor_view FF: common_mp Prio: 54
+Asset: collision_clip_sphere_64 FF: common_mp Prio: 54
+Asset: t6_attach_mag_hamr_world FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_fiveseven_view_lh FF: common_mp Prio: 54
+Asset: fxanim_mp_nuked2025_sprinkler_track_mod FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_wall_clock_01_minutes FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_allies_3_carry FF: common_mp Prio: 54
+Asset: c_usa_mp_seal6_sniper_fb FF: faction_seals_mp Prio: 57
+Asset: p6_karma_pot_med FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_turret_sentry_gun_yellow FF: common_mp Prio: 54
+Asset: nt_2020_flag_arabia_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_saritch_world FF: common_mp Prio: 54
+Asset: c_usa_mp_seal6_shotgun_fb FF: faction_seals_mp Prio: 57
+Asset: nt_2020_wall_shelves_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_vector_world FF: common_mp Prio: 54
+Asset: t6_attach_fastmag_scorpion_view FF: common_mp Prio: 54
+Asset: nt_2020_pillow_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_grenade_supply_world FF: common_mp Prio: 54
+Asset: nt_2020_button_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_flag_syria_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_button_03 FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_air_v78_vtol_killstreak FF: common_mp Prio: 54
+Asset: mlv/nt_concrete_fence_192 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_b2023r_world FF: common_mp Prio: 54
+Asset: mlv/nt_2020_truck_01 FF: mp_nuketown_2020 Prio: 57
+Asset: tag_origin FF: common_mp Prio: 54
+Asset: t6_attach_mag_dsr50_view FF: common_mp Prio: 54
+Asset: p6_garage_pipes_1x64 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_sniper_xpr50_scope_view FF: common_mp Prio: 54
+Asset: p6_light_karma_column_short FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_type95_view FF: common_mp Prio: 54
+Asset: nt_2020_vista_speakers_01 FF: mp_nuketown_2020 Prio: 57
+Asset: projectile_sa6_missile_desert_mp FF: common_mp Prio: 54
+Asset: t6_attach_optic_dualband_view FF: common_mp Prio: 54
+Asset: t6_attach_sniper_silencer1_view FF: common_mp Prio: 54
+Asset: nt_2020_wall_clock_01_seconds FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_uav FF: common_mp Prio: 54
+Asset: veh_t6_civ_car_compact_bge FF:  Prio: 0
+Asset: t6_wpn_minigun_world FF: common_mp Prio: 54
+Asset: nt_2020_fireplace_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_launch_smaw_view FF: common_mp Prio: 54
+Asset: fx FF: common_mp Prio: 54
+Asset: p_glo_tool_chest FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_pipes_modular_clampc FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_briefcase_bomb_world FF: common_mp Prio: 54
+Asset: p6_rag_doll_brunette FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_streetlight_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_taser_mine_world FF: common_mp Prio: 54
+Asset: nt_2020_food_dispenser FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shield_light_fx FF: common_mp Prio: 54
+Asset: nt_generator FF: mp_nuketown_2020 Prio: 57
+Asset: mp_flag_neutral FF: common_mp Prio: 54
+Asset: com_toy_car_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_shotty_saiga_world FF: common_mp Prio: 54
+Asset: nt_2020_flag_korea_01 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_pistol_kard_view_lh FF: common_mp Prio: 54
+Asset: collision_clip_32x32x128 FF: common_mp Prio: 54
+Asset: t5_weapon_equip_light_red_unlit FF: common_mp Prio: 54
+Asset: mlv/nt_2020_vista_kiosk_02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_ar_scarh_view FF: common_mp Prio: 54
+Asset: collision_missile_128x128x10 FF: patch_mp Prio: 65
+Asset: p_rus_angle_plate_bolt FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_mag_hk416_world FF: common_mp Prio: 54
+Asset: t6_wpn_sniper_ballista_view FF: common_mp Prio: 54
+Asset: t6_wpn_pistol_fnp45_view FF: common_mp Prio: 54
+Asset: nt_2020_house_02_railing_01_frame FF: mp_nuketown_2020 Prio: 57
+Asset: p6_rug_modern02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_saiga_view FF: common_mp Prio: 54
+Asset: collision_physics_cylinder_32x128 FF: patch_mp Prio: 65
+Asset: nt_2020_vista_cart_01 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_2020_vista_cart_02 FF: mp_nuketown_2020 Prio: 57
+Asset: venetian_blind_white_64x96 FF: mp_nuketown_2020 Prio: 57
+Asset: collision_mp_frost_kitchen_weap FF: patch_mp Prio: 65
+Asset: mlv/nt_concrete_fence_220_tall FF: mp_nuketown_2020 Prio: 57
+Asset: mlv/nt_concrete_fence_128 FF: mp_nuketown_2020 Prio: 57
+Asset: nt_phone_wall FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_drone_quad_rotor_mp_alt FF: common_mp Prio: 54
+Asset: t6_attach_mag_scorpion_view FF: common_mp Prio: 54
+Asset: p6_blk_fluorescent_light_off FF: mp_nuketown_2020 Prio: 57
+Asset: veh_t6_air_attack_heli_mp_light FF: common_mp Prio: 54
+Asset: berlin_roof_ac_short FF: mp_nuketown_2020 Prio: 57
+Asset: t6_attach_fastmag_saritch_world FF: common_mp Prio: 54
+Asset: accessories_book_stack02 FF: mp_nuketown_2020 Prio: 57
+Asset: t6_wpn_smg_mp7_world FF: common_mp Prio: 54
+Asset: nt_rooftop_angular_house FF: mp_nuketown_2020 Prio: 57
+Total of 976 assets in xmodel pool, max 2800, size 242048
+]mvm_spawn_model nt_phone_wall
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setmodel'
+model 'nt_phone_wall' not precached
+scripts/misc::spawn_model line 118 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 75 column 48
+
+]mvm_spawn_model t6_attach_fastmag_saiga_view
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setmodel'
+model 't6_attach_fastmag_saiga_view' not precached
+scripts/misc::spawn_model line 118 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 75 column 48
+
+]mvm_spawn_model t6_attach_fastmag_saiga_view
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setmodel'
+model 't6_attach_fastmag_saiga_view' not precached
+scripts/misc::spawn_model line 118 column 5
+************************************
+called from:
+	 scripts/commands::createcommand line 75 column 48
+
+]mvm_spawn_model t6_wpn_smg_mp7_world
+]mvm_bot_move forgive
+]mvm_bot_spawn tar21_mp axis ghosts sniper
+client 'Ozzie' connected
+
+******* server script runtime error *******
+while executing opcode 'OP_CastFieldObject'
+string is not a field object
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'issubstr'
+cannot cast undefined to string
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnFalse'
+cannot cast undefined to bool
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+]mvm_bot_freeze 1
+]mvm_bot_freeze 1
+]mvm_bot_freeze 
+"mvm_bot_freeze" is: "(Un)freeze bots^7" default: "(Un)freeze bots^7"
+  Domain is any text
+]mvm_bot_freeze 1
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'viewmodel_base_viewhands' not precached
+scripts/misc::reset_models line 78 column 9
+************************************
+called from:
+	 scripts/start::onplayerspawned line 44 column 9
+
+]mvm_bot_freeze 1
+]mvm_bot_move Ozzie
+]mvm_bot_aim Ozzie
+]mvm_bot_stare Ozz
+]mvm_bot_stare Ozz
+]mvm_bot_kill Ozzie head
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'playfxontag'
+type undefined is not an int
+scripts/bots::killbot line 188 column 33
+************************************
+called from:
+	 scripts/commands::createcommand line 75 column 48
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CastFieldObject'
+string is not a field object
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'issubstr'
+cannot cast undefined to string
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+
+******* server script runtime error *******
+while executing opcode 'OP_JumpOnFalse'
+cannot cast undefined to bool
+scripts/utils::is_akimbo line 85 column 20
+************************************
+called from:
+	 scripts/bots::give_loadout_on_spawn line 259 column 50
+	 scripts/utils::create_spawn_thread line 40 column 21
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'delete'
+removed entity is not an entity
+maps/mp/gametypes/_globallogic_player::delaystartragdoll line 2359 column 9
+************************************
+called from:
+
+
+******* server script runtime error *******
+while executing opcode 'OP_CallBuiltinMethod'
+in call to builtin method 'setviewmodel'
+model 'viewmodel_base_viewhands' not precached
+scripts/misc::reset_models line 78 column 9
+************************************
+called from:
+	 scripts/start::onplayerspawned line 44 column 9
+
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+==== ShutdownGame (1) ====
+Dropping client num 0: EXE_DISCONNECTED
+Dropping client num 1: EXE_DISCONNECTED
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Unloading fastfile en_faction_pmc_mp
+Unloading fastfile en_faction_seals_mp
+Unloading fastfile en_mp_nuketown_2020
+Unloading fastfile faction_pmc_mp
+Unloading fastfile faction_seals_mp
+Unloading fastfile mp_nuketown_2020
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Loading fastfile patch_ui_mp
+Loading fastfile en_ui_mp
+Loading fastfile ui_mp
+Built adjacency info for IPaks 22ms
+Hitch warning: 989 msec frame time on main thread
+execing default_xboxlive.cfg
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ui_hud_hardcore is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_xboxlive.cfg
+execing default_private.cfg
+completed execing default_private.cfg
+Unloading fastfile ui_mp
+Unloading fastfile en_ui_mp
+Unloading fastfile patch_ui_mp
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Loading fastfile mp_nuketown_2020
+Loading fastfile faction_seals_mp
+Loading fastfile faction_pmc_mp
+Loading fastfile en_mp_nuketown_2020
+Loading fastfile en_faction_seals_mp
+Loading fastfile en_faction_pmc_mp
+Built adjacency info for IPaks 26ms
+Script "maps/mp/gametypes/_rank.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic_player.gsc" loaded successfully
+Script "maps/mp/gametypes/_globallogic_ui.gsc" loaded successfully
+Script "scripts/actors.gsc" loaded successfully
+Script "scripts/utils.gsc" loaded successfully
+Script "scripts/defaults.gsc" loaded successfully
+Script "scripts/misc.gsc" loaded successfully
+Script "scripts/bots.gsc" loaded successfully
+Script "scripts/player.gsc" loaded successfully
+Script "scripts/commands.gsc" loaded successfully
+Script "scripts/hooks.gsc" loaded successfully
+Script "scripts/maths.gsc" loaded successfully
+Script "scripts/mp/ranked.gsc" loaded successfully
+Script "scripts/precache.gsc" loaded successfully
+Script "scripts/start.gsc" loaded successfully
+
+******* client script runtime error *******
+while executing opcode 'OP_CallBuiltin'
+in call to builtin function 'setdvar'
+Cannot set cheat dvar in CSC
+clientscripts/mp/_load::main
+************************************
+called from:
+	 clientscripts/mp/mp_nuketown_2020::main
+
+Applying pre-patched weapon values for 'dsr50_mp'
+send gump_flushed notify to script
+Hitch warning: 2946 msec frame time on main thread
+Hitch warning: 764 msec frame time on main thread
+===== pending client commands =====
+cmd     1: n weapnext
+cmd     2: n weapnext
+cmd     3: n weapnext
+cmd     4: n weapnext
+cmd     5: n weapnext
+cmd     6: n weapnext
+cmd     7: n weapnext
+cmd     8: n weapnext
+cmd     9: n weapnext
+cmd    10: n weapnext
+cmd    11: n -scores
+cmd    12: n weapnext
+cmd    13: n weapnext
+cmd    14: n weapnext
+cmd    15: n weapnext
+cmd    16: n weapnext
+cmd    17: n weapnext
+cmd    18: n weapnext
+cmd    19: n weapnext
+cmd    20: n weapnext
+cmd    21: n weapnext
+cmd    22: n weapnext
+cmd    23: n weapnext
+cmd    24: n weapnext
+cmd    25: n weapnext
+cmd    26: n weapnext
+cmd    27: n weapnext
+cmd    28: n weapnext
+cmd    29: n weapnext
+cmd    30: n weapnext
+cmd    31: n weapnext
+cmd    32: n weapnext
+cmd    33: n weapnext
+cmd    34: n weapnext
+cmd    35: n weapnext
+cmd    36: n weapnext
+cmd    37: n weapnext
+cmd    38: n weapnext
+cmd    39: n weapnext
+cmd    40: n weapnext
+cmd    41: n weapnext
+cmd    42: n weapnext
+cmd    43: n weapnext
+cmd    44: n weapnext
+cmd    45: n weapnext
+cmd    46: n weapnext
+cmd    47: n weapnext
+cmd    48: n weapnext
+cmd    49: n weapnext
+cmd    50: n weapnext
+cmd    51: n weapnext
+cmd    52: n weapnext
+cmd    53: n weapnext
+cmd    54: n weapnext
+cmd    55: n weapnext
+cmd    56: n weapnext
+cmd    57: n weapnext
+cmd    58: n weapnext
+cmd    59: n weapnext
+cmd    60: n weapnext
+cmd    61: n weapnext
+cmd    62: n weapnext
+cmd    63: n weapnext
+cmd    64: n weapnext
+cmd    65: n weapnext
+cmd    66: n weapnext
+cmd    67: n weapnext
+cmd    68: n weapnext
+cmd    69: n weapnext
+cmd    70: n weapnext
+cmd    71: n weapnext
+cmd    72: n weapnext
+cmd    73: n weapnext
+cmd    74: n weapnext
+cmd    75: n weapnext
+cmd    76: n weapnext
+cmd    77: n weapnext
+cmd    78: n weapnext
+cmd    79: n weapnext
+cmd    80: n weapnext
+cmd    81: n weapnext
+cmd    82: n weapnext
+cmd    83: n weapnext
+cmd    84: n weapnext
+cmd    85: n weapnext
+cmd    86: n weapnext
+cmd    87: n weapnext
+cmd    88: n weapnext
+cmd    89: n weapnext
+cmd    90: n weapnext
+cmd    91: n weapnext
+cmd    92: n weapnext
+cmd    93: n weapnext
+cmd    94: n weapnext
+cmd    95: n weapnext
+cmd    96: n weapnext
+cmd    97: n weapnext
+cmd    98: n weapnext
+cmd    99: n weapnext
+cmd   100: n weapnext
+cmd   101: n weapnext
+cmd   102: n weapnext
+cmd   103: n weapnext
+cmd   104: n weapnext
+cmd   105: n weapnext
+cmd   106: n weapnext
+cmd   107: n weapnext
+cmd   108: n weapnext
+cmd   109: n weapnext
+cmd   110: n weapnext
+cmd   111: n weapnext
+cmd   112: n weapnext
+cmd   113: n weapnext
+cmd   114: n weapnext
+cmd   115: n weapnext
+cmd   116: n weapnext
+cmd   117: n weapnext
+cmd   118: n weapnext
+cmd   119: n weapnext
+cmd   120: n weapnext
+cmd   121: n weapnext
+cmd   122: n weapnext
+cmd   123: n weapnext
+cmd   124: n weapnext
+cmd   125: n weapnext
+cmd   126: n weapnext
+cmd   127: n weapnext
+cmd   128: n weapnext
+cmd   129: n weapnext
+cmd   130: n weapnext
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Unloading fastfile en_faction_pmc_mp
+Unloading fastfile en_faction_seals_mp
+Unloading fastfile en_mp_nuketown_2020
+Unloading fastfile faction_pmc_mp
+Unloading fastfile faction_seals_mp
+Unloading fastfile mp_nuketown_2020
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Loading fastfile patch_ui_mp
+Loading fastfile en_ui_mp
+Loading fastfile ui_mp
+Built adjacency info for IPaks 22ms
+
+====================== COM_ERROR (1) ===============
+EXE_ERR_CLIENT_CMD_OVERFLOW
+=======================================================
+
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_mp
+Unloading fastfile en_ui_mp
+Unloading fastfile patch_ui_mp
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Loading fastfile patch_ui_mp
+Loading fastfile en_ui_mp
+Loading fastfile ui_mp
+Built adjacency info for IPaks 22ms
+Hitch warning: 1642 msec frame time on main thread
+execing mp/gamesettings_default.cfg
+completed execing mp/gamesettings_default.cfg
+execing mp/gamesettings_tdm.cfg
+completed execing mp/gamesettings_tdm.cfg
+execing default_xboxlive.cfg
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ui_hud_hardcore is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_xboxlive.cfg
+execing default_xboxlive.cfg
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ui_hud_hardcore is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_xboxlive.cfg
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Unloading fastfile ui_mp
+Unloading fastfile en_ui_mp
+Unloading fastfile patch_ui_mp
+Unloading fastfile dlc4_load_mp
+Unloading fastfile dlc3_load_mp
+Unloading fastfile dlc2_load_mp
+Unloading fastfile dlc1_load_mp
+Unloading fastfile dlc0_load_mp
+Unloading fastfile en_common_mp
+Unloading fastfile common_patch_mp
+Unloading fastfile common_mp
+Unloading fastfile ffotd_tu17_mp_147
+Unloading fastfile en_code_post_gfx_mp
+Unloading fastfile code_post_gfx_mp
+Unloading fastfile en_patch_mp
+Unloading fastfile patch_mp
+Unloading fastfile code_pre_gfx_mp

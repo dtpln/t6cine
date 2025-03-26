@@ -26,7 +26,7 @@ Simply download the mod through [this link](https://github.com/datapIan/T6Cine/r
 
 <img src="https://i.imgur.com/DvQBhh0.png" alt="screenshot" height="265px" align="right"/>
 
-Once the mod is downloaded, open the ZIP file and drag the "mp_t6cine" folder into your `BO2/mods` folder. If the `mods` folder doesn't exist, create it. (*You can also rename the mod if you'd like, but keep the mp_ prefix.*)
+Once the mod is downloaded, open the ZIP file and drag the "t6cine" folder into your `BO2/mods` folder. If the `mods` folder doesn't exist, create it. (*You can also rename the mod if you'd like, but keep the mp_ prefix.*)
 
 <br/>
 
@@ -39,9 +39,9 @@ X:/
 ```
 - Plutonium full path: `%localappdata%\Plutonium\storage\t6`
 
-Then, open your game, open the in-game console with `~`, and type `/fs_game mods/mp_t6cine`.
+Then, open your game, open the in-game console with `~`, and type `/fs_game mods/t6cine`. Alternatively you can use the mods menu list.
 
-You can also create a shortcut of your client's executable and add the following parameter to the target line : `+set fs_game "mods/mp_t6cine"`. This will automatically launch the mod when you open the game.
+You can also create a shortcut of your client's executable and add the following parameter to the target line : `+set fs_game "mods/t6cine"`. This will automatically launch the mod when you open the game.
 
 Alternatively, you can edit the included `.bat` file to run the game with the mod loaded automatically for Plutonium.
 
@@ -54,81 +54,49 @@ The link below contains a HTML file that explains every command from the [latest
 **It is not up-to-date with what's in the master branch,** although everything should still work as intended. Just don't be surprised if something is missing or not working as expected!
 
 <br/><br/>
-<details>
-     <summary>## FEATURES</summary>
 
-  **MISC FUNCTIONS**
-    
-    - [x]     clone         -- <set to 1>
-    - [x]     drop          -- <set to 1>
-    - [x]     about         -- <set to 1>
-    - [x]     clearbodies   -- <set to 1>
-    - [x]     viewhands     -- <set to 1>
-    - [x]     eb_explosive  -- <radius>
-    - [x]     eb_magic      -- <degrees>
-
-**VISUAL FUNCTIONS**
-
-    - [x]    spawn_model    -- <model_name>
-    - [x]    spawn_fx       -- <fx_name>
-    - [x]    vision         -- <vision>
-    - [x]    fog            -- <start end red green blue transition>
-
-**BOT FUNCTIONS**
-
-    - [x]    spawn          -- <weapon_mp> <axis/allies> <assault/specops/heavygunner/demolitions/sniper>
-    - [x]    move           -- <bot_name>
-    - [x]    aim            -- <bot_name>
-    - [x]    stare          -- <bot_name>
-    - [x]    model          -- <bot_name> <ASSAULT/SPECOPS/HEAVYGUNNER/DEMOLITIONS/SNIPER> <axis/allies>
-    - [x]    kill           -- <bot_name> <body/head/fire>
-    - [x]    holdgun        -- <set to 1>
-    - [x]    freeze         -- <set to 1>
-
-**PLANNED FEATURES**
-
-    - [ ]    Implementation of Bot Warfare mod for T4 Plutonium.
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 ## Features
 **MISC FUNCTIONS**
     
-    - [x]     clone         -- <set to 1>
-    - [x]     drop          -- <set to 1>
-    - [x]     about         -- <set to 1>
-    - [x]     clearbodies   -- <set to 1>
-    - [x]     viewhands     -- <set to 1>
-    - [x]     eb_explosive  -- <radius>
-    - [x]     eb_magic      -- <degrees>
+    - [x]   clone           -- <set to 1>
+    - [x]   drop            -- <set to 1>
+    - [x]   about           -- <set to 1>
+    - [x]   clearbodies     -- <set to 1>
+    - [ ]   viewhands       -- <set to 1>
+    - [x]   eb_explosive    -- <radius>
+    - [x]   eb_magic        -- <degrees>
+    - [ ]   score           -- <value>
 
 **VISUAL FUNCTIONS**
 
-    - [x]    spawn_model    -- <model_name>
-    - [x]    spawn_fx       -- <fx_name>
-    - [x]    vision         -- <vision>
-    - [x]    fog            -- <start end red green blue transition>
+    - [x]   spawn_model     -- <model_name>
+    - [x]   spawn_fx        -- <fx_name>
+    - [x]   vision          -- <vision>
+    - [x]   fog             -- <start end red green blue transition>
 
 **BOT FUNCTIONS**
 
-    - [x]    spawn          -- <weapon_mp> <axis/allies> <assault/specops/heavygunner/demolitions/sniper>
-    - [x]    move           -- <bot_name>
-    - [x]    aim            -- <bot_name>
-    - [x]    stare          -- <bot_name>
-    - [x]    model          -- <bot_name> <ASSAULT/SPECOPS/HEAVYGUNNER/DEMOLITIONS/SNIPER> <axis/allies>
-    - [x]    kill           -- <bot_name> <body/head/fire>
-    - [x]    holdgun        -- <set to 1>
-    - [x]    freeze         -- <set to 1>
+    - [x]   spawn           -- <weapon_mp> <axis/allies> <camo>
+    - [x]   weapon          -- <bot_name> <weapon_name> <camo>
+    - [x]   move            -- <bot_name>
+    - [x]   aim             -- <bot_name>
+    - [x]   stare           -- <bot_name>
+    - [x]   model           -- <bot_name> <sniper/assault/smg/lmg> <allies/axis>
+    - [x]   kill            -- <bot_name> <body/head/shotgun>
+    - [x]   holdgun         -- <set to 1>
+    - [x]   freeze          -- <set to 1>
 
 **PLANNED FEATURES**
 
-    - [ ]    Implementation of Bot Warfare mod for T4 Plutonium.
+    - [ ]   Implementation of Bot Warfare mod.
+    - [ ]   Making it possible to add more than one bot.
+    - [ ]   Viewhands
+    - [ ]   Fog.
+    - [ ]   Cleanup.
+
 <br/><br/>
 ## Credits
-- **Sass** - Created the original IW4Cine mod. All the code was written by him, I just edited it to work on WAW.
-- **Antiga** - Helped rewrite the mod and fix things that I couldn't.
+
+- **Sass**      - Created the original IW4Cine mod.
+- **Antiga**    - Helped rewrite the mod and fix things that I couldn't.
+- **Yoyo1love** - One of the best.
